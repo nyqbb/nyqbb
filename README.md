@@ -2,24 +2,23 @@
 
 # 👋 奶元清 / nyqbb
 
-**超级智能执行引擎（ASI Execution Engine）**
+**超级智能（ASI）**
 
-目标：超级智能（ASI） · 前置阶段：通用人工智能（AGI）
+由两个引擎组成：**执行引擎** + **任务引擎**
 
 ![Status](https://img.shields.io/badge/status-early--stage-orange)
-![Focus](https://img.shields.io/badge/focus-ASI-blueviolet)
+![Focus](https://img.shields.io/badge/focus-Superintelligence-blueviolet)
 ![Route](https://img.shields.io/badge/route-Symbolic%20AI-important)
-![License](https://img.shields.io/badge/license-TBD-lightgrey)
 
 </div>
 
 ---
 
-## 🚀 当前项目
+## 🧠 超级智能
 
-当前专注：**超级智能执行引擎（ASI Execution Engine）**。
+当前专注：**超级智能（ASI）**。
 
-项目由两个引擎组成：
+超级智能由两个引擎组成：
 
 | 引擎 | 做什么 |
 |---|---|
@@ -28,18 +27,15 @@
 
 > 内部规则和实现细节放在项目文档中，主页不展开。
 
-**当前阶段：** 架构设计已完成，代码大纲待编写，最小闭环待实现。
+**当前阶段：** 架构设计已完成，代码大纲待编写，最小闭环待实现。  
+超级智能以通用人工智能（AGI）为前置能力阶段。
 
 ---
 
-## 🧠 技术路线
+## 🧭 技术路线
 
-本项目属于 **符号主义** 路线：用显式规则表示知识，按规则执行，过程可追溯、可审计。
-
+本项目属于 **符号主义** 路线：用显式规则表示知识，按规则执行，过程可追溯、可审计。  
 与当前主流的大模型生成路线不同，本项目不依赖运行时生成，而是靠规则执行和结果回放。
-
-![Symbolic](https://img.shields.io/badge/Symbolic-AI-6f42c1)
-![Neurosymbolic](https://img.shields.io/badge/Neurosymbolic-offline%20build%20%2B%20online%20rules-1f6feb)
 
 ---
 
@@ -47,7 +43,7 @@
 
 | 项 | 状态 |
 |---|---|
-| 架构设计 | ✅ 已完成 |
+| 超级智能架构设计 | ✅ 已完成 |
 | 执行引擎 / 任务引擎职责划分 | ✅ 已完成 |
 | 功能边界整理 | 🟡 进行中 |
 | 代码大纲 | ⚪ 待编写 |
@@ -58,13 +54,73 @@
 
 ---
 
+## 📋 当前任务项
+
+| 编号 | 任务项 | 状态 |
+|---|---|---|
+| T1 | 超级智能架构设计收口 | ✅ 已完成 |
+| T2 | 执行引擎 / 任务引擎职责划分 | ✅ 已完成 |
+| T3 | 执行引擎功能边界整理 | 🟡 进行中 |
+| T4 | 任务引擎功能边界整理 | 🟡 进行中 |
+| T5 | 代码大纲编写 | ⚪ 待开始 |
+| T6 | 最小闭环实现 | ⚪ 待开始 |
+| T7 | 验证与回放建设 | ⚪ 待开始 |
+| T8 | 文档与协作入口维护 | 🟡 进行中 |
+
+**当前优先做：T3 → T4 → T5 → T6。**
+
+---
+
 ## 🗺️ 阶段路线
 
-```text
-架构设计（已完成）
-→ 功能边界整理（进行中）
-→ 代码大纲（待编写）
-→ 最小闭环实现（待开始）
-→ 验证与回放（待开始）
-→ 通用人工智能（AGI）能力积累
-→ 超级智能（ASI）
+1. 超级智能架构设计（已完成）
+2. 执行引擎 / 任务引擎功能边界整理（进行中）
+3. 代码大纲（待编写）
+4. 最小闭环实现（待开始）
+5. 验证与回放（待开始）
+6. 通用人工智能（AGI）能力积累
+7. 超级智能（ASI）能力验证
+
+---
+
+## 💞 寻找合作
+
+寻找 **开源架构维护人**，一起推进超级智能项目。
+
+合作方向：
+
+- 执行引擎与任务引擎功能边界整理
+- 代码大纲编写
+- 验证与回放建设
+- 文档与协作入口维护
+
+---
+
+## 📫 联系方式
+
+[![Email](https://img.shields.io/badge/email-Admin%40mengyunos.com-red?logo=gmail&logoColor=white)](mailto:Admin@mengyunos.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nyqbb-181717?logo=github&logoColor=white)](https://github.com/nyqbb)
+
+> 口号：**梦云之家，智慧未来。**
+
+---
+
+## 📦 过往项目（已收尾归档）
+
+以下项目来自我的 GitHub 公开仓库，均已完成阶段性收尾，不再作为当前主线：
+
+- **Arduino-ESP8266** —— 〖梦云之家〗ESP8266核心模板（WS服务器），C++。
+- **Arduino-ESP8266-Abandoned** —— 〖梦云之家〗源代码仓库（已废弃）。
+- **Android_Automated_Management** —— 安卓自动化测试平台，HTML。
+- **mengyun** —— 梦云相关项目，Python。
+- **fuselink** —— 虚拟网络，Python。
+- **nyqbb** —— GitHub 主页配置文件，HTML。
+
+---
+
+<div align="center">
+
+**超级智能 · 执行引擎 + 任务引擎**  
+架构设计已完成 · 代码大纲待编写
+
+</div>
