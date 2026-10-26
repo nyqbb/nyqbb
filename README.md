@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/nyqbb.png" width="110" style="border-radius:50%" alt="nyqbb" />
+<img src="https://github.com/nyqbb.png" width="100" style="border-radius:50%" alt="nyqbb" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&height=50&lines=%F0%9F%91%8B+Hi%2C+I%27m+%E5%A5%B6%E5%85%83%E6%B8%85+%C2%B7+nyqbb" alt="Typing Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=2000&color=9AA4B2&center=true&vCenter=true&width=550&height=35&lines=%E7%BA%AA%E5%85%83%E6%96%B0%E5%90%AF%E7%A0%B4%E6%B7%B7%E6%B2%8C%EF%BC%8C%E4%B8%87%E8%B1%A1%E5%BD%92%E5%BA%8F%E5%90%AF%E6%96%B0%E7%AF%87" alt="Typing Slogan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&height=64&lines=%F0%9F%91%8B+Hi%2C+I%27m+%E5%A5%B6%E5%85%83%E6%B8%85+%C2%B7+nyqbb" alt="Typing Name" />
 
 <br/>
 
@@ -92,11 +90,3 @@ ASI 的元规则来自自研 **纪元哲学体系**，三本核心著作已完�
 - **Android_Automated_Management** —— 安卓自动化测试平台，HTML
 - **mengyun** —— 梦云相关项目，Python
 - **fuselink** —— 虚拟网络，Python
-
----
-
-<div align="center">
-
-<sub>「 纪元新启破混沌，万象归序启新篇 」</sub>
-
-</div>
