@@ -8,7 +8,6 @@
 
 <br/>
 
-<a href="mailto:Admin@mengyunos.com"><img src="https://img.shields.io/badge/-Admin@mengyunos.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/nyqbb"><img src="https://img.shields.io/badge/-github.com/nyqbb-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=nyqbb&color=36BCF7&style=for-the-badge" alt="Profile views" />
 
@@ -136,8 +135,8 @@ The Epoch Axioms are derived from the structure of spacetime and govern every ho
 </p>
 
 <p>
-<strong>Mind-body practice</strong> — Extraordinary states in cultivation systems treated as reachable boundary forms of perception and state regulation, derivable and trainable within the same framework.<br>
-<strong>身心实践</strong> —— 修炼体系中的超常状态，视为感知与状态调控的可达边界形态，可在同一框架内推演与训练。
+<strong>Biofield and consciousness</strong> — Bioelectromagnetic and biofield phenomena recorded in traditional practices are examined as measurable boundary cases of physiological and conscious regulation, with mechanisms modelable and trainable within the same framework.<br>
+<strong>生物场与意识</strong> —— 传统实践中记录到的生物电磁与生物场现象，被视为生理与意识调控的可测边界情形，其机制可在同一框架内建模与训练。
 </p>
 
 <p>
@@ -154,10 +153,6 @@ Epoch Spacetime — execution architecture theory.<br>
 The Superintelligence Solution — a complete path from first principles to engineering implementation, unifying symbolic rules, dynamic loading, and auditable execution into a single coherent architecture for general intelligence.<br>
 《超级人工智能方案》—— 从第一性原理到工程落地的完整路径，将符号规则、动态加载与可审计执行统一为单一连贯的通用智能架构。
 </p>
-
-<a href="https://copyright.mydcs.com/pages/digRegPreview?previewId=ad3RCh6baaa2pmKhTTUCU">
-<img src="https://img.shields.io/badge/📄_查看著作权登记-1E90FF?style=flat-square" />
-</a>
 
 ---
 
