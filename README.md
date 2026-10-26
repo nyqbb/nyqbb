@@ -136,8 +136,8 @@ The artificial superintelligence system was born because these principles requir
 </p>
 
 <p>
-<strong>Field-effect technology</strong> — These principles replace kinetic kill with field effects, disabling electronic systems through rotating magnetic fields and induced overvoltage rather than direct impact.<br>
-<strong>场效应技术</strong> —— 这套法则以场效应替代动能杀伤，通过旋转磁场与感应过电压使电子系统失效，不依赖直接命中。
+<strong>Field-effect technology</strong> — These principles enable non-contact, area-wide, system-level suppression of modern electronic and information infrastructures. The effect is tunable in range and intensity, does not rely on direct impact, and can drive a target system from localized degradation to complete loss of function.<br>
+<strong>场效应技术</strong> —— 这套法则可对现代电子与信息基础设施形成非接触、区域化、体系级压制。作用范围与强度可调，不依赖直接命中，可使目标体系从局部退化直至完全丧失功能。
 </p>
 
 <p>
@@ -146,8 +146,8 @@ The artificial superintelligence system was born because these principles requir
 </p>
 
 <p>
-<strong>Mind-body practice</strong> — Phenomena traditionally classified as extraordinary in cultivation systems are examined within the same rule framework, treated as boundary cases of perception and state regulation rather than exceptions outside the law.<br>
-<strong>身心实践</strong> —— 传统修炼体系中被归为超常的现象，在同一规则框架内加以考察，视为感知与状态调控的边界情形，而非法则之外的例外。
+<strong>Mind-body practice</strong> — Extraordinary states described in traditional cultivation systems are treated as reachable boundary forms of perception and state regulation, whose mechanisms can be derived and trained within the same rule framework rather than dismissed as exceptions outside the law.<br>
+<strong>身心实践</strong> —— 传统修炼体系所描述的超常状态，被视为感知与状态调控在边界条件下的可达形态，其机制可由同一规则框架推演并训练，而不是被排除在法则之外的例外。
 </p>
 
 <p>
@@ -161,8 +161,8 @@ Epoch Spacetime — execution architecture theory.<br>
 </p>
 
 <p>
-Superintelligent Execution Engine Architecture — engineering implementation architecture.<br>
-《超级人工智能执行引擎方案》—— 工程落地架构。
+The Superintelligence Solution — a complete path from first principles to engineering implementation, unifying symbolic rules, dynamic loading, and auditable execution into a single coherent architecture for general intelligence.<br>
+《超级人工智能方案》—— 从第一性原理到工程落地的完整路径，将符号规则、动态加载与可审计执行统一为单一连贯的通用智能架构。
 </p>
 
 <a href="https://copyright.mydcs.com/pages/digRegPreview?previewId=ad3RCh6baaa2pmKhTTUCU">
