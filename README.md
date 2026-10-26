@@ -16,27 +16,27 @@
 
 ---
 
-## 🧠 超级智能 · ASI
+## 🧠 超级智能 · Artificial Superintelligence
 
-**A general-purpose semantic execution system on the symbolic AI path.**
+**A general-purpose semantic execution system on the symbolic AI approach.**
 
 **符号主义路线的通用语义执行系统。**
 
-Unlike mainstream connectionist approaches that rely on massive data training with rules buried in weights, ASI is driven by **explicit rules**, migrating the operating system architecture to the language layer: natural language as input, rule tables as instruction sets, external data as the source of capability. The ASI kernel remains minimal and stable, with all diversity emerging from dynamically loaded semantic units.
+Unlike mainstream connectionist approaches that rely on training on massive datasets with rules buried in weights, ASI is driven by **explicit rules**, migrating the operating system architecture to the language layer: natural language as input, rule tables as instruction sets, external data as the source of capability. The ASI kernel remains minimal and stable, with all diversity emerging from dynamically loaded semantic units.
 
 区别于依赖海量数据训练、规则隐于权重的主流连接主义方案，ASI 以**显式规则**驱动，将操作系统架构迁移至语言层面：自然语言即输入，规则表即指令集，外部数据即能力来源。ASI 内核保持最小化与稳定化，全部多样性由动态加载的语义单元产生。
 
 **Core Features / 核心特点：**
 
-**Full-chain explainability** — Every execution traces back to specific rules, nodes, and fields. Decision paths are transparent and auditable. The entire process supports replay and audit; behavior is traceable and results reproducible.
+**End-to-end explainability** — Every execution traces back to specific rules, nodes, and fields. Decision paths are transparent and auditable. The entire process supports replay and audit; behavior is traceable and results reproducible.
 
 **全链路可解释** —— 每次执行均可回溯到具体规则、节点与字段，决策路径透明可查，全流程支持回放与审计，行为可追溯、结果可复现。
 
-**Real-time rule updates** — Rule tables and knowledge data support versioned hot updates. Changes take effect immediately without downtime or retraining, with atomic switching and failure rollback.
+**Real-time rule updates** — Rule tables and knowledge data support versioned hot-reload. Changes take effect immediately without downtime or retraining, with atomic switching and failure rollback.
 
 **规则实时更新** —— 规则表与知识数据支持版本化热更新，修改即时生效，无需停机与重训，支持原子切换与失败回滚。
 
-**Automatic exception handoff** — Unmatched or missing semantic units do not interrupt execution. They are automatically handed off to a large model for clarification and completion, then written back to the knowledge base after verification, so subsequent similar queries hit the fast path directly.
+**Automatic exception handoff** — Unmatched or missing semantic units do not interrupt execution. They are automatically handed off to a large model for clarification and completion, then written back to the knowledge base after verification, so subsequent similar queries hit directly.
 
 **异常自动转交** —— 未命中或缺失的语义单元不中断执行，自动转交大模型追问补全，核定后写回知识库，后续同类查询直接命中。
 
@@ -54,9 +54,9 @@ Unlike mainstream connectionist approaches that rely on massive data training wi
 
 ---
 
-## 🗺️ 研发进度 · R&D
+## 🗺️ 研发进度 · Research & Development
 
-- ✓ Superintelligence architecture — May 2017 to Oct 2026, nearly a decade
+- ✓ Superintelligence solution — May 2017 to Oct 2026, nearly a decade
   ✓ 超级智能方案 —— 2017.05 ~ 2026.10，近十年
 - → Execution Engine — Oct 2026, under testing
   → 执行引擎 —— 2026.10 测试中
@@ -75,7 +75,7 @@ Unlike mainstream connectionist approaches that rely on massive data training wi
 
 ---
 
-## 📚 纪元体系 · ES
+## 📚 纪元体系 · Epoch System
 
 ASI's meta-rules come from the self-developed **Epoch Philosophical System**. Three core works have completed copyright registration.
 
@@ -93,7 +93,7 @@ ASI 的元规则来自自研 **纪元哲学体系**，三本核心著作已完�
 
 ---
 
-## 🤝 开放合作 · OC
+## 🤝 开放合作 · Open Cooperation
 
 **Task Engine development** — Completion, confirmation, archiving
 
@@ -109,7 +109,7 @@ ASI 的元规则来自自研 **纪元哲学体系**，三本核心著作已完�
 
 ---
 
-## 📊 代码统计 · CS
+## 📊 代码统计 · Code Statistics
 
 <div align="center">
 
@@ -120,7 +120,7 @@ ASI 的元规则来自自研 **纪元哲学体系**，三本核心著作已完�
 
 ---
 
-## 📦 归档项目 · AP
+## 📦 归档项目 · Archived Projects
 
 - **Arduino-ESP8266** — ESP8266 core template (WS server), C++
   **Arduino-ESP8266** —— ESP8266 核心模板（WS 服务器），C++
