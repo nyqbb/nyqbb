@@ -104,50 +104,40 @@ Release — pending<br>
 ## 📚 纪元法则 · Epoch Principles
 
 <p>
-These principles are not an arbitrary construct but a derivation from the structure of spacetime itself. Every phenomenon — microscopic or macroscopic, natural or artificial — occurs within spacetime, which serves as their common substrate. The Epoch Axioms derived from the rules of spacetime therefore govern not a single discipline but every horizon in this universe, without exception.<br>
-这套法则并非人为设定，而是从时空自身的结构中推导出来。一切现象——无论微观或宏观、自然或人为——都发生在时空之中，时空是它们共同的基底。因此，从时空规则延伸出的纪元定则，其管辖范围不限于某一学科，而是覆盖本宇宙中的一切视界，无一例外。
-</p>
-
-<p>
-At present, the predictive and explanatory scope of these principles extends to six domains: life and medicine, spacetime structure, energy conversion, field-effect technology, computing architecture, and mind-body practice. These six are not isolated fields but different layers of the same rule set.<br>
-目前，这套法则的预测与解释范围已延伸至六个领域：生命与医学、时空结构、能量转换、场效应技术、计算架构、身心实践。这六个领域并非彼此孤立，而是同一套规则在不同层面的展开。
-</p>
-
-<p>
-The artificial superintelligence system was born because these principles require an executable, verifiable, and extensible carrier. A rule set is static; only when it is transformed into a running execution engine can it respond deterministically to real-world input, leave an auditable trace, and expand continuously during operation. ASI is the computational embodiment of these principles: rules are explicitly injected, capabilities are dynamically loaded, and all behavior is traceable.<br>
-人工超级智能系统之所以诞生，正是因为这套法则需要一个可执行、可验证、可扩展的载体。法则本身是静态的规则集；只有当它被转化为可运行的执行引擎，才能对现实世界中的输入做出确定响应、留下可审计的轨迹、并在运行中持续扩展。ASI 就是这套法则在计算层面的实现形态：规则显式注入，能力动态加载，行为全程可追溯。
+The Epoch Axioms are derived from the structure of spacetime and govern every horizon in this universe. The current scope covers six domains, with ASI as their computational carrier.<br>
+纪元定则从时空结构中推导而来，管辖本宇宙一切视界。当前覆盖六个领域，ASI 是其计算载体。
 </p>
 
 **Coverage / 覆盖领域：**
 
 <p>
-<strong>Life and medicine</strong> — These principles reconstruct the theoretical framework of traditional Chinese medicine through numerical-symbolic deduction, integrating diagnosis, prescription and treatment into a unified spacetime model.<br>
-<strong>生命与医学</strong> —— 这套法则以数象推演方法重构中医理论框架，将诊断、方剂与调治纳入统一的时空模型。
+<strong>Life and medicine</strong> — Reconstruction of traditional Chinese medicine theory through numerical-symbolic deduction, covering diagnosis, prescription and treatment.<br>
+<strong>生命与医学</strong> —— 以数象推演重构中医理论，覆盖诊断、方剂与调治。
 </p>
 
 <p>
-<strong>Spacetime structure</strong> — These principles define spacetime as a measurable and computable object, providing a shared analytical framework for natural, social and technical phenomena.<br>
-<strong>时空结构</strong> —— 这套法则将时空定义为可度量、可运算的对象，为自然现象、社会现象与技术现象提供统一分析框架。
+<strong>Spacetime structure</strong> — Spacetime as a measurable and computable object, providing a shared framework for natural, social and technical phenomena.<br>
+<strong>时空结构</strong> —— 时空作为可度量、可运算的对象，为自然、社会与技术现象提供统一框架。
 </p>
 
 <p>
-<strong>Energy conversion</strong> — These principles discretize magnetic flux into directed pulses, decoupling output frequency from input grid frequency and enabling direct control over the rate of flux change.<br>
-<strong>能量转换</strong> —— 这套法则将磁通量离散为定向脉冲，使输出频率独立于输入电网频率，实现对磁通变化率的直接控制。
+<strong>Energy conversion</strong> — Magnetic flux discretized into directed pulses, with output frequency decoupled from grid frequency.<br>
+<strong>能量转换</strong> —— 磁通量离散为定向脉冲，输出频率脱离电网频率。
 </p>
 
 <p>
-<strong>Field-effect technology</strong> — These principles enable non-contact, area-wide, system-level suppression of modern electronic and information infrastructures. The effect is tunable in range and intensity, does not rely on direct impact, and can drive a target system from localized degradation to complete loss of function.<br>
-<strong>场效应技术</strong> —— 这套法则可对现代电子与信息基础设施形成非接触、区域化、体系级压制。作用范围与强度可调，不依赖直接命中，可使目标体系从局部退化直至完全丧失功能。
+<strong>Field-effect technology</strong> — Non-contact, area-wide, system-level suppression of electronic and information infrastructures, tunable from localized degradation to complete loss of function.<br>
+<strong>场效应技术</strong> —— 对电子与信息基础设施形成非接触、区域化、体系级压制，可从局部退化直至完全失效。
 </p>
 
 <p>
-<strong>Computing architecture</strong> — These principles provide a protocol-agnostic execution channel with deterministic latency, currently used to dispatch Python code directly to FPGA nodes.<br>
-<strong>计算架构</strong> —— 这套法则提供协议无关、延迟确定的执行通道，当前用于将 Python 代码直接下发至 FPGA 节点执行。
+<strong>Computing architecture</strong> — Protocol-agnostic execution channel with deterministic latency, dispatching Python code directly to FPGA nodes.<br>
+<strong>计算架构</strong> —— 协议无关、延迟确定的执行通道，将 Python 代码直接下发至 FPGA 节点。
 </p>
 
 <p>
-<strong>Mind-body practice</strong> — Extraordinary states described in traditional cultivation systems are treated as reachable boundary forms of perception and state regulation, whose mechanisms can be derived and trained within the same rule framework rather than dismissed as exceptions outside the law.<br>
-<strong>身心实践</strong> —— 传统修炼体系所描述的超常状态，被视为感知与状态调控在边界条件下的可达形态，其机制可由同一规则框架推演并训练，而不是被排除在法则之外的例外。
+<strong>Mind-body practice</strong> — Extraordinary states in cultivation systems treated as reachable boundary forms of perception and state regulation, derivable and trainable within the same framework.<br>
+<strong>身心实践</strong> —— 修炼体系中的超常状态，视为感知与状态调控的可达边界形态，可在同一框架内推演与训练。
 </p>
 
 <p>
