@@ -101,11 +101,11 @@ Release — pending<br>
 
 ---
 
-## 📚 纪元体系 · Epoch System
+## 📚 纪元法则 · Epoch Principles
 
 <p>
-ASI's meta-rules come from the self-developed <strong>Epoch Philosophical System</strong>. Three core works have completed copyright registration.<br>
-ASI 的元规则来自自研 <strong>纪元哲学体系</strong>，三本核心著作已完成著作权登记。
+The Epoch Principles extend from the rules of spacetime itself. The Epoch Axioms derived from them apply to every event in this universe — from the microscopic to the macroscopic, without exception. ASI's meta-rules originate from this system, and three core works have completed copyright registration.<br>
+纪元法则体系由时空自身的规则延伸而来。由此推导的纪元定则，适用于本宇宙中的一切事件——从微观到宏观，无一例外。ASI 的元规则正源自这一体系，三本核心著作已完成著作权登记。
 </p>
 
 <p>
