@@ -108,11 +108,11 @@ ASI's meta-rules come from the self-developed <strong>Epoch Philosophical System
 ASI 的元规则来自自研 <strong>纪元哲学体系</strong>，三本核心著作已完成著作权登记。
 </p>
 
-| Work / 著作 | Role / 定位 |
-|---|---|
-| *The Great Way is Simple: Epoch Axioms* / 《大道至简·纪元定则》 | Meta-rules and symbol system / 元规则与符号体系 |
-| *The Great Way is Simple: Epoch Spacetime* / 《大道至简·纪元时空》 | Execution architecture theory / 执行架构理论 |
-| *Superintelligent Execution Engine Architecture* / 《超级人工智能执行引擎方案》 | Engineering implementation architecture / 工程落地架构 |
+<p>
+<em>The Great Way is Simple: Epoch Axioms</em> / 《大道至简·纪元定则》 — Meta-rules and symbol system / 元规则与符号体系<br>
+<em>The Great Way is Simple: Epoch Spacetime</em> / 《大道至简·纪元时空》 — Execution architecture theory / 执行架构理论<br>
+<em>Superintelligent Execution Engine Architecture</em> / 《超级人工智能执行引擎方案》 — Engineering implementation architecture / 工程落地架构
+</p>
 
 <a href="https://copyright.mydcs.com/pages/digRegPreview?previewId=ad3RCh6baaa2pmKhTTUCU">
 <img src="https://img.shields.io/badge/📄_查看著作权登记-1E90FF?style=flat-square" />
