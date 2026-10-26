@@ -74,7 +74,7 @@ Unlike mainstream connectionist approaches that rely on training on massive data
 </p>
 
 <p>
-→ Task Engine — Oct 2026, development started, running in parallel with Execution Engine testing<br>
+→ Task Engine — Oct 2026, development started, in parallel with Execution Engine testing<br>
 → 任务引擎 —— 2026.10 开发启动，与执行引擎测试并行推进
 </p>
 
@@ -103,55 +103,23 @@ Release — pending<br>
 ## 📚 纪元法则 · Epoch Principles
 
 <p>
-The Epoch Axioms are derived from the structure of spacetime and govern every horizon in this universe. The current scope covers six domains, with ASI as their computational carrier.<br>
-纪元定则从时空结构中推导而来，管辖本宇宙一切视界。当前覆盖六个领域，ASI 是其计算载体。
-</p>
-
-**Coverage / 覆盖领域：**
-
-<p>
-<strong>Life and medicine</strong> — Reconstruction of traditional Chinese medicine theory through numerical-symbolic deduction, covering diagnosis, prescription and treatment.<br>
-<strong>生命与医学</strong> —— 以数象推演重构中医理论，覆盖诊断、方剂与调治。
+The Epoch Axioms are derived from the structure of spacetime, providing a unified descriptive framework. The framework has extended explorations in several directions, including life and medicine, spacetime structure, energy conversion, field-matter interaction, computing architecture, and boundary phenomena of living systems. Full discussions of each direction are documented in the complete works; only directional guidance is provided here.<br>
+纪元定则从时空结构中推导而来，提供统一的描述框架。该框架在若干方向上有延伸探索，包括生命与医学、时空结构、能量转换、场与物质相互作用、计算架构、生命系统边界现象。各方向的完整论述收录于著作全文，此处仅作方向指引。
 </p>
 
 <p>
-<strong>Spacetime structure</strong> — Spacetime as a measurable and computable object, providing a shared framework for natural, social and technical phenomena.<br>
-<strong>时空结构</strong> —— 时空作为可度量、可运算的对象，为自然、社会与技术现象提供统一框架。
-</p>
-
-<p>
-<strong>Energy conversion</strong> — Magnetic flux discretized into directed pulses, with output frequency decoupled from grid frequency.<br>
-<strong>能量转换</strong> —— 磁通量离散为定向脉冲，输出频率脱离电网频率。
-</p>
-
-<p>
-<strong>Field-effect technology</strong> — Non-contact, area-wide, system-level suppression of electronic and information infrastructures, tunable from localized degradation to complete loss of function.<br>
-<strong>场效应技术</strong> —— 对电子与信息基础设施形成非接触、区域化、体系级压制，可从局部退化直至完全失效。
-</p>
-
-<p>
-<strong>Computing architecture</strong> — Protocol-agnostic execution channel with deterministic latency, dispatching Python code directly to FPGA nodes.<br>
-<strong>计算架构</strong> —— 协议无关、延迟确定的执行通道，将 Python 代码直接下发至 FPGA 节点。
-</p>
-
-<p>
-<strong>Biofield and consciousness</strong> — Bioelectromagnetic and biofield phenomena recorded in traditional practices are examined as measurable boundary cases of physiological and conscious regulation, with mechanisms modelable and trainable within the same framework.<br>
-<strong>生物场与意识</strong> —— 传统实践中记录到的生物电磁与生物场现象，被视为生理与意识调控的可测边界情形，其机制可在同一框架内建模与训练。
-</p>
-
-<p>
-The Epoch Axioms — meta-rules and symbol system.<br>
+<em>The Great Way is Simple: Epoch Axioms</em> — meta-rules and symbol system.<br>
 《大道至简·纪元定则》—— 元规则与符号体系。
 </p>
 
 <p>
-Epoch Spacetime — execution architecture theory.<br>
+<em>The Great Way is Simple: Epoch Spacetime</em> — execution architecture theory.<br>
 《大道至简·纪元时空》—— 执行架构理论。
 </p>
 
 <p>
-The Superintelligence Solution — a complete path from first principles to engineering implementation, unifying symbolic rules, dynamic loading, and auditable execution into a single coherent architecture for general intelligence.<br>
-《超级人工智能方案》—— 从第一性原理到工程落地的完整路径，将符号规则、动态加载与可审计执行统一为单一连贯的通用智能架构。
+The Superintelligence Solution — from first principles to engineering implementation.<br>
+《超级人工智能方案》—— 从第一性原理到工程落地。
 </p>
 
 ---
