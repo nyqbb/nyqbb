@@ -104,14 +104,65 @@ Release — pending<br>
 ## 📚 纪元法则 · Epoch Principles
 
 <p>
-The Epoch Principles extend from the rules of spacetime itself. The Epoch Axioms derived from them apply to every event in this universe — from the microscopic to the macroscopic, without exception. ASI's meta-rules originate from this system, and three core works have completed copyright registration.<br>
-纪元法则体系由时空自身的规则延伸而来。由此推导的纪元定则，适用于本宇宙中的一切事件——从微观到宏观，无一例外。ASI 的元规则正源自这一体系，三本核心著作已完成著作权登记。
+These principles are not an arbitrary construct but a derivation from the structure of spacetime itself. Every phenomenon — microscopic or macroscopic, natural or artificial — occurs within spacetime, which serves as their common substrate. The Epoch Axioms derived from the rules of spacetime therefore govern not a single discipline but every horizon in this universe, without exception.<br>
+这套法则并非人为设定，而是从时空自身的结构中推导出来。一切现象——无论微观或宏观、自然或人为——都发生在时空之中，时空是它们共同的基底。因此，从时空规则延伸出的纪元定则，其管辖范围不限于某一学科，而是覆盖本宇宙中的一切视界，无一例外。
 </p>
 
 <p>
-<em>The Great Way is Simple: Epoch Axioms</em> / 《大道至简·纪元定则》 — Meta-rules and symbol system / 元规则与符号体系<br>
-<em>The Great Way is Simple: Epoch Spacetime</em> / 《大道至简·纪元时空》 — Execution architecture theory / 执行架构理论<br>
-<em>Superintelligent Execution Engine Architecture</em> / 《超级人工智能执行引擎方案》 — Engineering implementation architecture / 工程落地架构
+At present, the predictive and explanatory scope of these principles extends to six domains: life and medicine, spacetime structure, energy conversion, field-effect technology, computing architecture, and mind-body practice. These six are not isolated fields but different layers of the same rule set.<br>
+目前，这套法则的预测与解释范围已延伸至六个领域：生命与医学、时空结构、能量转换、场效应技术、计算架构、身心实践。这六个领域并非彼此孤立，而是同一套规则在不同层面的展开。
+</p>
+
+<p>
+The artificial superintelligence system was born because these principles require an executable, verifiable, and extensible carrier. A rule set is static; only when it is transformed into a running execution engine can it respond deterministically to real-world input, leave an auditable trace, and expand continuously during operation. ASI is the computational embodiment of these principles: rules are explicitly injected, capabilities are dynamically loaded, and all behavior is traceable.<br>
+人工超级智能系统之所以诞生，正是因为这套法则需要一个可执行、可验证、可扩展的载体。法则本身是静态的规则集；只有当它被转化为可运行的执行引擎，才能对现实世界中的输入做出确定响应、留下可审计的轨迹、并在运行中持续扩展。ASI 就是这套法则在计算层面的实现形态：规则显式注入，能力动态加载，行为全程可追溯。
+</p>
+
+**Coverage / 覆盖领域：**
+
+<p>
+<strong>Life and medicine</strong> — These principles reconstruct the theoretical framework of traditional Chinese medicine through numerical-symbolic deduction, integrating diagnosis, prescription and treatment into a unified spacetime model.<br>
+<strong>生命与医学</strong> —— 这套法则以数象推演方法重构中医理论框架，将诊断、方剂与调治纳入统一的时空模型。
+</p>
+
+<p>
+<strong>Spacetime structure</strong> — These principles define spacetime as a measurable and computable object, providing a shared analytical framework for natural, social and technical phenomena.<br>
+<strong>时空结构</strong> —— 这套法则将时空定义为可度量、可运算的对象，为自然现象、社会现象与技术现象提供统一分析框架。
+</p>
+
+<p>
+<strong>Energy conversion</strong> — These principles discretize magnetic flux into directed pulses, decoupling output frequency from input grid frequency and enabling direct control over the rate of flux change.<br>
+<strong>能量转换</strong> —— 这套法则将磁通量离散为定向脉冲，使输出频率独立于输入电网频率，实现对磁通变化率的直接控制。
+</p>
+
+<p>
+<strong>Field-effect technology</strong> — These principles replace kinetic kill with field effects, disabling electronic systems through rotating magnetic fields and induced overvoltage rather than direct impact.<br>
+<strong>场效应技术</strong> —— 这套法则以场效应替代动能杀伤，通过旋转磁场与感应过电压使电子系统失效，不依赖直接命中。
+</p>
+
+<p>
+<strong>Computing architecture</strong> — These principles provide a protocol-agnostic execution channel with deterministic latency, currently used to dispatch Python code directly to FPGA nodes.<br>
+<strong>计算架构</strong> —— 这套法则提供协议无关、延迟确定的执行通道，当前用于将 Python 代码直接下发至 FPGA 节点执行。
+</p>
+
+<p>
+<strong>Mind-body practice</strong> — Phenomena traditionally classified as extraordinary in cultivation systems are examined within the same rule framework, treated as boundary cases of perception and state regulation rather than exceptions outside the law.<br>
+<strong>身心实践</strong> —— 传统修炼体系中被归为超常的现象，在同一规则框架内加以考察，视为感知与状态调控的边界情形，而非法则之外的例外。
+</p>
+
+<p>
+The Epoch Axioms — meta-rules and symbol system.<br>
+《大道至简·纪元定则》—— 元规则与符号体系。
+</p>
+
+<p>
+Epoch Spacetime — execution architecture theory.<br>
+《大道至简·纪元时空》—— 执行架构理论。
+</p>
+
+<p>
+Superintelligent Execution Engine Architecture — engineering implementation architecture.<br>
+《超级人工智能执行引擎方案》—— 工程落地架构。
 </p>
 
 <a href="https://copyright.mydcs.com/pages/digRegPreview?previewId=ad3RCh6baaa2pmKhTTUCU">
