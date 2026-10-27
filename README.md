@@ -93,11 +93,11 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
 
 ## 📚 Theoretical Works / 理论著作
 *   **《大道至简·纪元定则》 / *Da Dao Zhi Jian · Ji Yuan Ding Ze***
-    *   EN: Meta-rules and Symbolic System.
-    *   CN: 元规则与符号体系。
+    *   EN: Meta-rules and Symbolic System. Defines the foundational ontological rules of spacetime, Five Elements, and symbolic execution.
+    *   CN: 元规则与符号体系。定义了时空、五行与符号执行最基础的元规则与本体架构。
 *   **《大道至简·纪元时空》 / *Da Dao Zhi Jian · Ji Yuan Shi Kong***
-    *   EN: Execution Architecture Theory.
-    *   CN: 执行架构理论。
+    *   EN: Execution Architecture Theory. Proposes that the world consists of information and symbols; any information transfer is a process of spacetime binding, measurement, and computation.
+    *   CN: 执行架构理论。核心命题：世界由信息与符号构成，任何信息的传递与储存，均是时空之间的绑定、度量与运算过程。
 *   **《超级人工智能方案》 / *Superintelligence Scheme***
-    *   EN: From First Principles to Engineering Implementation.
-    *   CN: 从第一性原理到工程落地。
+    *   EN: From First Principles to Engineering Implementation. Migrates OS architecture to the semantic layer, building a minimal-kernel, self-expanding general intelligence platform.
+    *   CN: 从第一性原理到工程落地。将操作系统架构原理迁移至字符串语义层面，构建支持无限加载、自我扩展的通用智能平台。
