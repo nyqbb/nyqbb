@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=github.com/nyqbb.png&mask=circle&w=300&h=300&v=1" width="150" alt="nyqbb" />
+<img src="https://images.weserv.nl/?url=github.com/nyqbb.png&mask=circle&w=300&h=300" width="150" alt="nyqbb" />
 
 <br/>
 
