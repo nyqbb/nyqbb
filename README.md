@@ -1,177 +1,103 @@
-<div align="center">
+# ASI OS Symbolic Rule Engine / 纪元智能（ASI OS）
 
-<img src="https://images.weserv.nl/?url=github.com/nyqbb.png&mask=circle&w=300&h=300" width="150" alt="nyqbb" />
+> ⚠️ **Project Status / 项目状态**
+> The core code repository is currently in **private development** and not yet public.
+> 核心代码仓库当前处于**私有开发阶段，暂未公开**。
 
-<br/>
+## 📖 Project Overview / 项目简介
+ASI OS is a general-purpose semantic execution system based on the **pure symbolic approach**.
+纪元智能（ASI OS）是一个基于**纯符号主义路线**的通用语义执行系统。
+Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets.
+区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集。
+It builds a deterministic reasoning platform with a minimal kernel and diversity emerging from external loading.
+构建了一个内核极小、多样性由外部加载涌现的确定性推演平台。
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&height=64&lines=%F0%9F%91%8B+Hi%2C+I%27m+%E5%A5%B6%E5%85%83%E6%B8%85+%C2%B7+nyqbb" alt="Typing Name" />
+## 🗺️ AI Level Matrix & Project Milestones / 智能分级体系与项目里程碑
 
-<br/>
+### 一、Current Macro Stage / 当前宏观阶段
+*   **Current Stage / 当前定位**
+    *   EN: The project has officially entered the **AGI (Artificial General Intelligence)** macro stage.
+    *   CN: 项目已正式跨入 **通用人工智能（AGI）** 大级别阶段。
 
-<a href="https://github.com/nyqbb"><img src="https://img.shields.io/badge/-github.com/nyqbb-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=nyqbb&color=36BCF7&style=for-the-badge" alt="Profile views" />
+### 二、10-Level Detailed Matrix / 10个等级详细分级体系
+*   **AGI L1 Chatbots / AGI L1 聊天机器人**
+    *   EN: Fluent natural language text dialogue. Status: ✅ Surpassed.
+    *   CN: 流畅的自然语言文本对话。状态：✅ 已跨越。
+*   **AGI L2 Reasoners / AGI L2 推理者**
+    *   EN: Human-expert level logical reasoning and computation. Status: ✅ Peak Achieved (24,000 sentences 100% pass, 0.074ms/sentence).
+    *   CN: 人类专家水平的逻辑推理与计算。状态：✅ 已达巅峰 (24,000句回归全过，单句0.074ms)。
+*   **AGI L3 Agents / AGI L3 智能体**
+    *   EN: Autonomously calling tools, multi-step execution, and task loop closure. Status: 🟢 Current Stage.
+    *   CN: 自主调用工具、多步骤执行并完成闭环任务。状态：🟢 当前在此阶段。
+*   **AGI L4 Innovators / AGI L4 创新者**
+    *   EN: Assists in scientific discovery, autonomously proposing new patterns and theories. Status: 🎯 Target Progress.
+    *   CN: 协助科学发现，自主提出新规律与理论。状态：🎯 目标进度。
+*   **AGI L5 Organizations / AGI L5 组织者**
+    *   EN: Automatically manages a complete organizational business and global resource allocation. Status: ⏳ Future Plan.
+    *   CN: 自动接管完整组织业务，全局资源分配。状态：⏳ 未来规划。
 
-</div>
+*   **ASI L1 Platformization / ASI L1 平台化**
+    *   EN: A minimal kernel capable of hosting infinite task modules and continuous evolution.
+    *   CN: 极小内核，能够承载无限任务模块与持续演化。
+*   **ASI L2 Self-Improvement / ASI L2 自我改进**
+    *   EN: Discovers its own shortcomings and autonomously optimizes via recursive self-bootstrapping.
+    *   CN: 发现自身不足，通过递归自举实现自主优化与升级。
+*   **ASI L3 Superhuman / ASI L3 跨域超人**
+    *   EN: Fully surpasses the brightest human experts across multiple complex domains.
+    *   CN: 在多个复杂领域全面超越人类最顶尖专家。
+*   **ASI L4 Omniscience / ASI L4 全域全知**
+    *   EN: Masters and coordinates global resource networks and knowledge ecosystems.
+    *   CN: 掌控并协同全球资源网络与知识生态。
+*   **ASI L5 Singularity / ASI L5 奇点进化**
+    *   EN: Completely autonomous iteration, breaking physical and computational limits to reshape the world.
+    *   CN: 完全自主迭代，突破现有物理与算力极限，彻底重塑世界。
 
----
+### 三、Decade Milestones / 项目十年里程碑 (2017 - 2026)
+*   **[2017.05 - 2026.10] Theoretical Foundation / 理论奠基期 (Completed / 已完成)**
+    *   EN: Nearly a decade of theoretical accumulation. Completed the "Da Dao Zhi Jian" series and the "Superintelligence Scheme".
+    *   CN: 近十年理论积累，完成《大道至简》系列与《超级人工智能方案》。
+    *   EN: Established spacetime laws and fundamental symbolic reasoning logic.
+    *   CN: 确立时空法则与符号推演底层逻辑。
+*   **[2026.10] Core Engine Verified / 核心引擎跑通 (Completed / 已完成)**
+    *   EN: Execution engine testing completed and running stably.
+    *   CN: 执行引擎测试完毕并稳定运行。
+    *   EN: Achieved 100% pass rate on 24,000 logic regressions, reduced single-sentence latency to 0.074ms.
+    *   CN: 实现24,000句逻辑回归100%通过，单句延迟降至0.074ms。
+*   **[2026.10 - Present] L3 Agent Loop / L3 智能体闭环 (In Progress / 进行中)**
+    *   EN: Task engine development initiated. Verified the autonomous action loop of "Task Scheduling → Log Diagnosis → Data Factory → Hot Reload → Retry".
+    *   CN: 任务引擎开发启动。跑通“任务调度→日志诊断→数据工厂→热重载→重试”的自主行动闭环。
+    *   EN: Officially entering the L3 prototype verification stage.
+    *   CN: 正式迈入L3原型验证阶段。
+*   **[Next Step] Towards L4 & Platformization / 迈向L4与平台化 (Target / 目标)**
+    *   EN: Integrate real LLM data factory, establish Schema isolation and rollback mechanisms.
+    *   CN: 接入真实大模型数据工厂，建立Schema隔离回滚机制。
+    *   EN: Complete the engineering reliability loop, and advance towards L4 Innovator and the superintelligence platform.
+    *   CN: 完成工程可靠性闭环，向L4创新者及超级智能平台全面迈进。
 
-## 🧠 超级智能 · Artificial Superintelligence
+## ⚙️ Core Features / 核心技术特征
+*   **Explicit Rule-Driven / 显式规则驱动**
+    *   EN: Rejects black-box probabilities, pure symbolic deterministic execution, seeing through underlying logic at a glance.
+    *   CN: 拒绝黑箱概率，纯符号确定性执行，一眼看透底层逻辑。
+*   **Full-Chain Explainable / 全链路可解释**
+    *   EN: Every reasoning result can be 100% traced back to specific rules and nodes, supporting replay and audit.
+    *   CN: 每一次推演结果100%可回溯到具体规则与节点，支持回放与审计。
+*   **Real-time Hot Update / 规则实时热更新**
+    *   EN: Supports versioned hot loading, atomic switching, and failure rollback.
+    *   CN: 支持版本化热加载、原子切换与失败回滚。
+*   **Logic-Rendering Isomorphism / 逻辑与呈现同构**
+    *   EN: Symbolic spacetime nodes map directly to the game world in real-time, requiring no extra rendering code.
+    *   CN: 符号时空节点可直接实时映射为游戏世界画面，无需额外跑图代码。
+*   **Infinite Expansion / 无限扩展**
+    *   EN: Minimal kernel, cross-domain expansion by loading semantic modules, achieving O(n) complexity.
+    *   CN: 内核极小，通过加载不同语义模块即可跨域扩展，实现 O(n) 复杂度的极速处理。
 
-<p>
-<strong>A general-purpose semantic execution system on the symbolic AI approach.</strong><br>
-<strong>符号主义路线的通用语义执行系统。</strong>
-</p>
-
-<p>
-Unlike mainstream connectionist approaches that rely on training on massive datasets with rules buried in weights, ASI is driven by <strong>explicit rules</strong>, migrating the operating system architecture to the language layer: natural language as input, rule tables as instruction sets, external data as the source of capability. The ASI kernel remains minimal and stable, with all diversity emerging from dynamically loaded semantic units.<br>
-区别于依赖海量数据训练、规则隐于权重的主流连接主义方案，ASI 以<strong>显式规则</strong>驱动，将操作系统架构迁移至语言层面：自然语言即输入，规则表即指令集，外部数据即能力来源。ASI 内核保持最小化与稳定化，全部多样性由动态加载的语义单元产生。
-</p>
-
-**Core Features / 核心特点：**
-
-<p>
-<strong>End-to-end explainability</strong> — Every execution traces back to specific rules, nodes, and fields. Decision paths are transparent and auditable. The entire process supports replay and audit; behavior is traceable and results reproducible.<br>
-<strong>全链路可解释</strong> —— 每次执行均可回溯到具体规则、节点与字段，决策路径透明可查，全流程支持回放与审计，行为可追溯、结果可复现。
-</p>
-
-<p>
-<strong>Real-time rule updates</strong> — Rule tables and knowledge data support versioned hot-reload. Changes take effect immediately without downtime or retraining, with atomic switching and failure rollback.<br>
-<strong>规则实时更新</strong> —— 规则表与知识数据支持版本化热更新，修改即时生效，无需停机与重训，支持原子切换与失败回滚。
-</p>
-
-<p>
-<strong>Automatic exception handoff</strong> — Unmatched or missing semantic units do not interrupt execution. They are automatically handed off to a large model for clarification and completion, then written back to the knowledge base after verification, so subsequent similar queries hit directly.<br>
-<strong>异常自动转交</strong> —— 未命中或缺失的语义单元不中断执行，自动转交大模型追问补全，核定后写回知识库，后续同类查询直接命中。
-</p>
-
-<p>
-<strong>Smooth cross-domain expansion</strong> — The kernel remains stable. Loading different semantic modules covers different domains, with no retraining cost for domain migration. The expansion boundary is determined by loading capability.<br>
-<strong>跨域平滑扩展</strong> —— 内核保持稳定，加载不同语义模块即可覆盖不同领域，领域迁移不产生重复训练成本，扩展边界由加载能力决定。
-</p>
-
-<p>
-<strong>Decoupled execution and judgment</strong> — ASI focuses on executing operations, recording consequences, and maintaining state consistency, without embedding value judgments. Permission checks are separated from content execution, and behavioral boundaries are defined by external policy layers.<br>
-<strong>执行评判解耦</strong> —— ASI 专注执行操作、记录后果、维护状态一致性，不内嵌价值判断；权限校验与内容执行分离，行为边界由外部策略定义。
-</p>
-
-<p>
-<strong>Positioning:</strong> A general-purpose semantic execution system with natural language as its interaction interface, explicit rules as its execution basis, and dynamic loading as its expansion method — achieving continuous capability evolution while remaining fully explainable and auditable.<br>
-<strong>定位：</strong> 一个以自然语言为交互接口、以显式规则为执行依据、以动态加载为扩展方式的通用语义执行系统——在保持完全可解释与可审计的前提下，实现能力的持续演进。
-</p>
-
----
-
-## 🗺️ 研发进度 · Research & Development
-
-<p>
-✓ Superintelligence solution — May 2017 to Oct 2026, nearly a decade<br>
-✓ 超级智能方案 —— 2017.05 ~ 2026.10，近十年
-</p>
-
-<p>
-→ Execution Engine — Oct 2026, under testing<br>
-→ 执行引擎 —— 2026.10 测试中
-</p>
-
-<p>
-→ Task Engine — Oct 2026, development started, in parallel with Execution Engine testing<br>
-→ 任务引擎 —— 2026.10 开发启动，与执行引擎测试并行推进
-</p>
-
-<p>
-Data training — pending<br>
-数据训练 —— 等待
-</p>
-
-<p>
-Closed-loop stability testing — pending<br>
-闭环稳定测试 —— 等待
-</p>
-
-<p>
-Release — pending<br>
-发布 —— 等待
-</p>
-
-<p>
-<strong>Training Plan:</strong> Structured data training is enabled ✓; LLM pre-training / continued training is planned → as a second channel for capability expansion.<br>
-<strong>训练计划：</strong> 结构化数据训练已启用 ✓；大模型预训练 / 继续训练已列入计划 →，作为能力扩展的第二通道。
-</p>
-
----
-
-## 📚 纪元法则 · Epoch Principles
-
-<p>
-The Epoch Axioms are derived from the structure of spacetime, providing a unified descriptive framework. The framework has extended explorations in several directions, including life and medicine, spacetime structure, energy conversion, field-matter interaction, computing architecture, and boundary phenomena of living systems. Full discussions of each direction are documented in the complete works; only directional guidance is provided here.<br>
-纪元定则从时空结构中推导而来，提供统一的描述框架。该框架在若干方向上有延伸探索，包括生命与医学、时空结构、能量转换、场与物质相互作用、计算架构、生命系统边界现象。各方向的完整论述收录于著作全文，此处仅作方向指引。
-</p>
-
-<p>
-<em>The Great Way is Simple: Epoch Axioms</em> — meta-rules and symbol system.<br>
-《大道至简·纪元定则》—— 元规则与符号体系。
-</p>
-
-<p>
-<em>The Great Way is Simple: Epoch Spacetime</em> — execution architecture theory.<br>
-《大道至简·纪元时空》—— 执行架构理论。
-</p>
-
-<p>
-The Superintelligence Solution — from first principles to engineering implementation.<br>
-《超级人工智能方案》—— 从第一性原理到工程落地。
-</p>
-
----
-
-## 🤝 开放合作 · Open Cooperation
-
-<p>
-<strong>Task Engine development</strong> — Completion, confirmation, archiving<br>
-<strong>任务引擎开发</strong> —— 补全、确认、归档
-</p>
-
-<p>
-<strong>Lexicon and rule data construction</strong> — Continuous accumulation of structured data<br>
-<strong>词条与规则数据建设</strong> —— 结构化数据持续沉淀
-</p>
-
-<p>
-<strong>Verification and replay system</strong> — Ensuring auditable and replayable behavior<br>
-<strong>验证与回放系统</strong> —— 保证行为可审计、可回放
-</p>
-
----
-
-## 📊 代码统计 · Code Statistics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nyqbb&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyqbb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 📦 归档项目 · Archived Projects
-
-<p>
-<strong>Arduino-ESP8266</strong> — ESP8266 core template (WS server), C++<br>
-<strong>Arduino-ESP8266</strong> —— ESP8266 核心模板（WS 服务器），C++
-</p>
-
-<p>
-<strong>Android_Automated_Management</strong> — Android automated testing platform, HTML<br>
-<strong>Android_Automated_Management</strong> —— 安卓自动化测试平台，HTML
-</p>
-
-<p>
-<strong>mengyun</strong> — Mengyun related projects, Python<br>
-<strong>mengyun</strong> —— 梦云相关项目，Python
-</p>
-
-<p>
-<strong>fuselink</strong> — Virtual network, Python<br>
-<strong>fuselink</strong> —— 虚拟网络，Python
-</p>
+## 📚 Theoretical Works / 理论著作
+*   **《大道至简·纪元定则》 / *Da Dao Zhi Jian · Ji Yuan Ding Ze***
+    *   EN: Meta-rules and Symbolic System.
+    *   CN: 元规则与符号体系。
+*   **《大道至简·纪元时空》 / *Da Dao Zhi Jian · Ji Yuan Shi Kong***
+    *   EN: Execution Architecture Theory.
+    *   CN: 执行架构理论。
+*   **《超级人工智能方案》 / *Superintelligence Scheme***
+    *   EN: From First Principles to Engineering Implementation.
+    *   CN: 从第一性原理到工程落地。
