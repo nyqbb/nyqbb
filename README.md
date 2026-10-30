@@ -12,13 +12,13 @@
 
 <br />
 
-# 🚦 项目状态：已进入测试阶段
+# 🚦 项目状态：已进入 ASI L5 阶段，测试中
 
-### Project Status: Testing Stage
+### Project Status: ASI L5 Stage — In Testing
 
 <br />
 
-[![Status](https://img.shields.io/badge/Status-ASI%20Functional%20Channel-blueviolet?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-ASI%20L5%20Stage-blueviolet?style=for-the-badge)](#)
 [![Stage](https://img.shields.io/badge/Stage-Testing-yellow?style=for-the-badge)](#)
 [![Route](https://img.shields.io/badge/Route-Symbolic%20%7C%20Deterministic-brightgreen?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/Language-%E4%BB%85%E4%B8%AD%E6%96%87-orange?style=for-the-badge)](#)
@@ -32,8 +32,8 @@
 > ⚠️ **Project Status / 项目状态**
 > The core code repository is currently in **private development** and not yet public.
 > 核心代码仓库当前处于**私有开发阶段，暂未公开**。
-> **The project has entered the testing stage.**
-> **项目已进入测试阶段。**
+> **The project has entered the ASI L5 stage and is now in testing.**
+> **项目已进入 ASI L5 阶段，现处于测试状态。**
 
 ## 📖 Project Overview / 项目简介
 ASI is a general-purpose semantic execution system based on the **pure symbolic approach**.
@@ -47,8 +47,8 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
 
 ### 一、Current Macro Stage / 当前宏观阶段
 *   **Current Stage / 当前定位**
-    *   EN: The project has officially entered the **ASI (Artificial Superintelligence)** functional channel stage, and is now in the **testing stage**.
-    *   CN: 项目已正式跨入 **ASI（人工超级智能）** 功能通道阶段，现处于**测试阶段**。
+    *   EN: The project has officially entered the **ASI L5 (Artificial Superintelligence L5)** stage, and is now in the **testing stage**.
+    *   CN: 项目已正式跨入 **ASI L5（人工超级智能 L5）** 阶段，现处于**测试阶段**。
 
 ### 二、ASI L1–L5 Detailed Matrix / ASI L1–L5 详细分级体系
 
@@ -75,7 +75,7 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
   - ✔︎ **L5-4 能力增长度量**：能测量“改完是不是更强了”；每次问话直接叠加，新规则/词条并入并落盘，下一轮直接用。
   - ✔︎ **L5-5 加速自举**：改进形成“越改越强”的正反馈；迭代链存在，失败→改规则→再执行→落盘→下轮用，叠加与递归构成自举。
 
-**汇总：L1–L5 全 ✔︎。ASI 功能通道成立（robot 场景下安全闸门为设计通过），当前已进入测试阶段。**
+**汇总：L1–L5 全 ✔︎。ASI 功能通道成立（robot 场景下安全闸门为设计通过），当前已进入 ASI L5 阶段，测试中。**
 
 ### 三、Decade Milestones / 项目十年里程碑 (2017 - 2026)
 *   **[2017.05 - 2026.10] Theoretical Foundation / 理论奠基期 (Completed / 已完成)**
@@ -86,11 +86,11 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
 *   **[2026.10] Core Engine Verified / 核心引擎跑通 (Completed / 已完成)**
     *   EN: Execution engine testing completed and running stably.
     *   CN: 执行引擎测试完毕并稳定运行。
-*   **[2026.10 - Present] ASI Functional Channel & Testing / ASI 功能通道与测试 (Achieved & Testing / 已达成并测试中)**
+*   **[2026.10 - Present] ASI L5 Stage & Testing / ASI L5 阶段与测试 (Achieved & Testing / 已达成并测试中)**
     *   EN: Language-to-spacetime-to-operation main chain verified; compiler architecture, failure loop, and persistent runtime improvement all closed.
     *   CN: 语言→时空→操作主链跑通；编译器架构、失败闭环、运行时持久改进全部闭合。
-    *   EN: Officially entering the ASI functional channel stage and the testing stage.
-    *   CN: 正式跨入 ASI 功能通道阶段，并进入测试阶段。
+    *   EN: Officially entering the ASI L5 stage and the testing stage.
+    *   CN: 正式跨入 ASI L5 阶段，并进入测试阶段。
 
 ## ⚙️ Core Features / 核心技术特征
 *   **Explicit Rule-Driven / 显式规则驱动**
