@@ -33,7 +33,7 @@
 > The core code repository is currently in **private development** and not yet public.
 > 核心代码仓库当前处于**私有开发阶段，暂未公开**。
 > **The project has entered the ASI L5 stage and is now in testing.**
-> **项目已进入 ASI L5 阶段，现处于测试状态。**
+> **项目已进入 ASI L5 阶段，现处于测试阶段。**
 
 ## 📖 Project Overview / 项目简介
 ASI is a general-purpose semantic execution system based on the **pure symbolic approach**.
@@ -52,30 +52,13 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
 
 ### 二、ASI L1–L5 Detailed Matrix / ASI L1–L5 详细分级体系
 
-- ✔︎ **L1 平台化承载**：
-  - ✔︎ **L1-1 统一平台承载语义单元**：任意语义单元/知识模块可加载，不锁领域；规则、词条外置，换数据即换域。
-  - ✔︎ **L1-2 动态注入与增量扩展**：大模型接口动态注入，swap 增量扩展，语言层不预设领域。
+- ✔︎ **L1 平台化承载**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。
+- ✔︎ **L2 跨域超人性能**：语言能描述的领域即可接入；确定性执行，速度、精度、可复现性远超人类与主流系统。
+- ✔︎ **L3 运行时持久改进**：能从执行结果中学习并持续改进，经验跨轮次、跨进程累积。
+- ✔︎ **L4 环境适应型改进**：能适应不同说法、不同数据、不同场景，改进方向由反馈决定。
+- ✔︎ **L5 元标准递归修改与受控闭环**：能修改自身的改进机制本身，形成越改越强的正反馈；面向机器人直控底层设计，不设沙箱、不设权限闸门、不设人工确认，平台完全中立。
 
-- ✔︎ **L2 跨域超人性能**：
-  - ✔︎ **L2-1 跨域不设限**：语言万能，语言能描述的领域即系统能接的领域，领域覆盖不设上限。
-  - ✔︎ **L2-2 域内超人速度**：离线确定性执行，速度、精度、可复现性远超人类与主流系统。
-
-- ✔︎ **L3 运行时持久改进**：
-  - ✔︎ **L3-1 失败驱动改进**：失败四分类→溯源→改规则/词条→再执行，改进由执行结果驱动。
-  - ✔︎ **L3-2 跨轮次跨进程累积**：改进落盘，下轮直接使用，重启可恢复，经验持续累积。
-
-- ✔︎ **L4 环境适应型改进**：
-  - ✔︎ **L4-1 输入环境适应**：语言→时空映射适应不同说法、不同数据、不同场景。
-  - ✔︎ **L4-2 反馈决定方向**：失败反馈决定改进什么、往哪改，规则集随场景扩展。
-
-- ✔︎ **L5 元标准递归修改与受控闭环**：
-  - ✔︎ **L5-1 改“改进机制”本身**：能改“怎么评估、怎么筛选、怎么生成规则”这套机制本身；程序与编译器关系，规则数据外置，改规则数据即改编译器行为。
-  - ✔︎ **L5-2 受控递归闭环**：每次自我修改前能验证身份、回滚、恢复、无循环依赖；由语言长度决定，输入语言的长度和复杂度决定拆解深度、规则链长度、递归执行步数。
-  - ✔︎ **L5-3 安全闸门**：架构面向机器人直接控制底层设计，不设沙箱、不设权限闸门、不设人工确认，平台完全中立，以保障 robot 场景下的零延迟直控；风险敞口取决于部署时的系统权限。robot 场景下视为设计通过。
-  - ✔︎ **L5-4 能力增长度量**：能测量“改完是不是更强了”；每次问话直接叠加，新规则/词条并入并落盘，下一轮直接用。
-  - ✔︎ **L5-5 加速自举**：改进形成“越改越强”的正反馈；迭代链存在，失败→改规则→再执行→落盘→下轮用，叠加与递归构成自举。
-
-**汇总：L1–L5 全 ✔︎。ASI 功能通道成立（robot 场景下安全闸门为设计通过），当前已进入 ASI L5 阶段，测试中。**
+**汇总：L1–L5 全 ✔︎。ASI 功能通道成立，当前已进入 ASI L5 阶段，测试中。**
 
 ### 三、Decade Milestones / 项目十年里程碑 (2017 - 2026)
 *   **[2017.05 - 2026.10] Theoretical Foundation / 理论奠基期 (Completed / 已完成)**
@@ -87,10 +70,8 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
     *   EN: Execution engine testing completed and running stably.
     *   CN: 执行引擎测试完毕并稳定运行。
 *   **[2026.10 - Present] ASI L5 Stage & Testing / ASI L5 阶段与测试 (Achieved & Testing / 已达成并测试中)**
-    *   EN: Language-to-spacetime-to-operation main chain verified; compiler architecture, failure loop, and persistent runtime improvement all closed.
-    *   CN: 语言→时空→操作主链跑通；编译器架构、失败闭环、运行时持久改进全部闭合。
-    *   EN: Officially entering the ASI L5 stage and the testing stage.
-    *   CN: 正式跨入 ASI L5 阶段，并进入测试阶段。
+    *   EN: Main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing stage.
+    *   CN: 主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试阶段。
 
 ## ⚙️ Core Features / 核心技术特征
 *   **Explicit Rule-Driven / 显式规则驱动**
