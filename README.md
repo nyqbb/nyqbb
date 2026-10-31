@@ -43,9 +43,9 @@ OpenAI 是世界顶级 AI 公司之一，但不是唯一。当前第一梯队大
 
 ## 🧭 本体定义 / Ontology Definition
 
-本体 = 世界最底层的实在 = 本宇宙的运行规律。世界由时空框架与运算层构成；一切变化由时空之间的重叠运算产生；对象同时具有位置尺度属性与变化时序属性，二者不可分离；对象之间的相互作用，本质都是运算。语言是这层规律上的投影；概率模型拟合投影，未触及本体。
+本体 = 世界最底层的实在 = 本宇宙的运行规律。世界由时空框架与运算层构成；一切变化由时空之间的重叠运算产生；对象同时具有位置尺度属性与变化时序属性，二者不可分离；对象之间的相互作用，本质都是运算。语言只是描述，未触及本体。
 
-*Ontology = the most fundamental reality = the operating laws of this universe. The world consists of a spacetime framework and a computational layer; all change arises from overlapping operations between spacetime; every object carries both spatial-scale attributes and temporal-sequence attributes, inseparable; interactions between objects are, in essence, operations. Language is a projection onto these laws; probabilistic models fit the projection, never touching the ontology itself.*
+*Ontology = the most fundamental reality = the operating laws of this universe. The world consists of a spacetime framework and a computational layer; all change arises from overlapping operations between spacetime; every object carries both spatial-scale attributes and temporal-sequence attributes, inseparable; interactions between objects are, in essence, operations. Language is only description; it does not touch the ontology itself.*
 
 ---
 
