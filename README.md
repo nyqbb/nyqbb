@@ -35,26 +35,35 @@
 
 ## 🌍 世界顶级 AI 公司强度排名 / Leading AI Companies by Strength (Oct 2026)
 
-**说明：以下排名综合年化营收、模型能力、人才密度、学术影响力与估值/市值五个维度，不是单一财务指标排序。**
+说明：以下排名综合年化营收、模型能力、人才密度、学术影响力与估值/市值五个维度，不是单一财务指标排序。
 
 *Note: The ranking below integrates ARR, model capability, talent density, academic impact, and valuation/market cap. It is not a single-metric financial ranking.*
 
-| # | 公司 / Company | GitHub | 核心强度依据 / Key Strength Basis |
-|---|---|---|---|
-| 1 | **Anthropic** | @anthropics | ARR ~$65B, #1 globally; #1 talent density (8:1 net hiring from OpenAI); Claude series tops multiple model leaderboards. |
-| 2 | **OpenAI** | @openai | ARR ~$40B; ~40% of all AI academic citations, #1 by far; GPT series remains the consumer-AI benchmark. |
-| 3 | **Google DeepMind** | @google-deepmind | Alphabet market cap $4.29T; Gemini series consistently top-tier; strongest infrastructure and compute reserves. |
-| 4 | **字节跳动 / ByteDance** | @bytedance | Valuation ~$480B, top-3 global AI unicorn; Doubao leads domestic token calls; AI ARR ~$4B, highest among Chinese companies. |
-| 5 | **DeepSeek** | @deepseek-ai | Valuation ~RMB 350–400B; model ranked **#2 globally** behind Claude; its “intelligence-per-cost” approach reshaped industry economics. |
-| 6 | **Meta** | @meta-llama | Market cap $1.88T; Llama series is the backbone of the global open-source model ecosystem. |
-| 7 | **智谱 / Zhipu** | @zai-org | HK-listed, market cap ~HK$440–510B, #1 among China's “Four AI Dragons”; GLM series is a domestic top-tier model. |
-| 8 | **阿里巴巴 / Alibaba** | @alibaba / @QwenLM | Market cap ~$396B; Qwen series is one of the most downloaded open-source model families globally. |
-| 9 | **xAI** | @xai-org | Grok series iterating rapidly; unique distribution via X; talent retention and governance flagged as risks in third-party assessments. |
-| 10 | **Kimi / Moonshot AI** | @MoonshotAI | Valuation >$20B, ~7× in six months; Kimi K3 ranked #4 globally, representing China's open-source push into the top tier. |
-| 11 | **MiniMax** | @MiniMax-AI | HK-listed, market cap ~HK$250B; H3 ranked #12 globally; AI ARR ~$800M. |
-| 12 | **Mistral AI** | @mistralai | Europe's flagship AI company; Mistral Large series iterating; unique positioning between open and closed models. |
+1. **@anthropics**（Anthropic）：ARR 约 650 亿美元，全球第一；人才密度第一，从 OpenAI 净流入比约 8:1；Claude 系列在多个模型榜单登顶。 / *ARR ~$65B, #1 globally; #1 talent density; Claude tops multiple model leaderboards.*
 
-**其他重要公司 / Other notable companies**：@Tencent（混元/Hunyuan）、@baidu / @Baidu-AIP（文心/ERNIE）、@Huawei（盘古/Pangu）、@01-ai（Yi）、@stepfun-ai（Step）、@baichuan-inc。
+2. **@openai**（OpenAI）：ARR 约 400 亿美元；学术引用量占全行业近 40%，断层第一；GPT 系列仍是消费级 AI 的定义者。 / *ARR ~$40B; ~40% of all AI academic citations; GPT remains the consumer-AI benchmark.*
+
+3. **@google-deepmind**（Google DeepMind）：Alphabet 市值 4.29 万亿美元；Gemini 系列稳居第一梯队；基础设施与算力储备行业最强。 / *Alphabet market cap $4.29T; Gemini consistently top-tier; strongest infrastructure and compute reserves.*
+
+4. **@bytedance**（字节跳动 / ByteDance）：估值约 4800 亿美元，全球 AI 独角兽前三；豆包国内调用量领先；AI 年化营收约 40 亿美元，居中国公司之首。 / *Valuation ~$480B; Doubao leads domestic token calls; AI ARR ~$4B, highest among Chinese companies.*
+
+5. **@deepseek-ai**（DeepSeek）：估值约 3500–4000 亿元人民币；模型能力全球第二，仅次于 Claude；以极致智效比重塑行业成本结构。 / *Valuation ~RMB 350–400B; model ranked #2 globally behind Claude; intelligence-per-cost reshaped industry economics.*
+
+6. **@meta-llama**（Meta）：市值 1.88 万亿美元；Llama 系列是全球开源模型生态的基石。 / *Market cap $1.88T; Llama series is the backbone of the global open-source model ecosystem.*
+
+7. **@zai-org**（智谱 / Zhipu）：港股上市，市值约 4400–5100 亿港元，居中国 AI 四小龙之首；GLM 系列为国内第一梯队。 / *HK-listed, market cap ~HK$440–510B, #1 among China's Four AI Dragons; GLM is a domestic top-tier model.*
+
+8. **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：市值约 3960 亿美元；Qwen 是全球下载量最高的开源模型家族之一。 / *Market cap ~$396B; Qwen is one of the most downloaded open-source model families globally.*
+
+9. **@xai-org**（xAI）：Grok 系列快速迭代；依托 X 平台拥有独特分发优势；人才留存与治理被第三方评估列为风险项。 / *Grok iterating rapidly; unique distribution via X; talent retention and governance flagged as risks.*
+
+10. **@MoonshotAI**（Kimi / 月之暗面）：估值突破 200 亿美元，半年涨约 7 倍；Kimi K3 全球第 4，代表中国开源模型冲击头部。 / *Valuation >$20B, ~7× in six months; Kimi K3 ranked #4 globally.*
+
+11. **@MiniMax-AI**（MiniMax）：港股上市，市值约 2500 亿港元；H3 全球第 12；AI 年化营收约 8 亿美元。 / *HK-listed, market cap ~HK$250B; H3 ranked #12 globally; AI ARR ~$800M.*
+
+12. **@mistralai**（Mistral AI）：欧洲代表性 AI 公司；Mistral Large 系列持续迭代；在开源与闭源之间保持独特定位。 / *Europe's flagship AI company; Mistral Large iterating; unique positioning between open and closed models.*
+
+其他重要公司 / Other notable companies：**@Tencent**（混元 / Hunyuan）、**@baidu** / **@Baidu-AIP**（文心 / ERNIE）、**@Huawei**（盘古 / Pangu）、**@01-ai**（Yi）、**@stepfun-ai**（Step）、**@baichuan-inc**（百川）。
 
 ---
 
@@ -100,7 +109,7 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 - ✔︎ **L4 环境适应型改进**：能适应不同说法、不同数据、不同场景，改进方向由反馈决定。
 - ✔︎ **L5 元标准递归修改与受控闭环**：能修改自身的改进机制本身，形成越改越强的正反馈；面向机器人直控底层设计，不设沙箱、不设权限闸门、不设人工确认，平台完全中立。
 
-**汇总：L1–L5 全 ✔︎。当前已进入 ASI L5 阶段，测试中；下一阶段为本体智能。**
+汇总：L1–L5 全 ✔︎。当前已进入 ASI L5 阶段，测试中；下一阶段为本体智能。
 
 *Summary: L1–L5 all ✔︎. Currently in ASI L5 stage, in testing; the next stage is Ontology Intelligence.*
 
