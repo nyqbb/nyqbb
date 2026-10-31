@@ -33,11 +33,28 @@
 
 ---
 
-## 🌍 世界顶级 AI 公司 / Leading AI Companies
+## 🌍 世界顶级 AI 公司强度排名 / Leading AI Companies by Strength (Oct 2026)
 
-OpenAI 是世界顶级 AI 公司之一，但不是唯一。当前第一梯队大致包括：OpenAI（GPT 系列）、Google DeepMind（Gemini 系列）、Anthropic（Claude 系列）、Meta（Llama 系列）、xAI（Grok 系列）、Mistral AI，以及中国市场的阿里巴巴、字节跳动、智谱。OpenAI 是这一梯队中的核心公司，但“世界顶级”是由多家公司共同构成的梯队，不是单一公司。
+**说明：以下排名综合年化营收、模型能力、人才密度、学术影响力与估值/市值五个维度，不是单一财务指标排序。**
 
-*OpenAI is one of the world's leading AI companies, but not the only one. The current top tier includes OpenAI (GPT), Google DeepMind (Gemini), Anthropic (Claude), Meta (Llama), xAI (Grok), Mistral AI, and China's Alibaba, ByteDance, and Zhipu. OpenAI is a core company in this tier, but "world-leading" is a tier shared by multiple companies, not a single one.*
+*Note: The ranking below integrates ARR, model capability, talent density, academic impact, and valuation/market cap. It is not a single-metric financial ranking.*
+
+| # | 公司 / Company | GitHub | 核心强度依据 / Key Strength Basis |
+|---|---|---|---|
+| 1 | **Anthropic** | @anthropics | ARR ~$65B, #1 globally; #1 talent density (8:1 net hiring from OpenAI); Claude series tops multiple model leaderboards. |
+| 2 | **OpenAI** | @openai | ARR ~$40B; ~40% of all AI academic citations, #1 by far; GPT series remains the consumer-AI benchmark. |
+| 3 | **Google DeepMind** | @google-deepmind | Alphabet market cap $4.29T; Gemini series consistently top-tier; strongest infrastructure and compute reserves. |
+| 4 | **字节跳动 / ByteDance** | @bytedance | Valuation ~$480B, top-3 global AI unicorn; Doubao leads domestic token calls; AI ARR ~$4B, highest among Chinese companies. |
+| 5 | **DeepSeek** | @deepseek-ai | Valuation ~RMB 350–400B; model ranked **#2 globally** behind Claude; its “intelligence-per-cost” approach reshaped industry economics. |
+| 6 | **Meta** | @meta-llama | Market cap $1.88T; Llama series is the backbone of the global open-source model ecosystem. |
+| 7 | **智谱 / Zhipu** | @zai-org | HK-listed, market cap ~HK$440–510B, #1 among China's “Four AI Dragons”; GLM series is a domestic top-tier model. |
+| 8 | **阿里巴巴 / Alibaba** | @alibaba / @QwenLM | Market cap ~$396B; Qwen series is one of the most downloaded open-source model families globally. |
+| 9 | **xAI** | @xai-org | Grok series iterating rapidly; unique distribution via X; talent retention and governance flagged as risks in third-party assessments. |
+| 10 | **Kimi / Moonshot AI** | @MoonshotAI | Valuation >$20B, ~7× in six months; Kimi K3 ranked #4 globally, representing China's open-source push into the top tier. |
+| 11 | **MiniMax** | @MiniMax-AI | HK-listed, market cap ~HK$250B; H3 ranked #12 globally; AI ARR ~$800M. |
+| 12 | **Mistral AI** | @mistralai | Europe's flagship AI company; Mistral Large series iterating; unique positioning between open and closed models. |
+
+**其他重要公司 / Other notable companies**：@Tencent（混元/Hunyuan）、@baidu / @Baidu-AIP（文心/ERNIE）、@Huawei（盘古/Pangu）、@01-ai（Yi）、@stepfun-ai（Step）、@baichuan-inc。
 
 ---
 
