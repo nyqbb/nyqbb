@@ -3,7 +3,7 @@
 <img src="https://avatars.githubusercontent.com/nyqbb" width="120" height="120" style="border-radius:50%;" alt="头像" />
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BA%AA%E5%85%83%E6%99%BA%E8%83%BD%EF%BC%88ASI%EF%BC%89;%E4%BB%A5%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E4%B8%BA%E8%BE%93%E5%85%A5%E3%80%81%E4%BB%A5%E6%98%BE%E5%BC%8F%E8%A7%84%E5%88%99%E4%B8%BA%E6%8C%87%E4%BB%A4%E9%9B%86;%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E7%9A%84%E7%BB%88%E6%9E%81%E5%BD%A2%E6%80%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BA%AA%E5%85%83%E6%99%BA%E8%83%BD%EF%BC%88ASI%EF%BC%89;%E4%BB%8E%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E8%BF%88%E5%90%91%E6%9C%AC%E4%BD%93%E6%99%BA%E8%83%BD;%E7%A1%AE%E5%AE%9A%E6%80%A7%20%C2%B7%20%E5%8F%AF%E8%A7%A3%E9%87%8A%20%C2%B7%20%E5%8F%AF%E5%AE%A1%E8%AE%A1%E7%9A%84%E8%AF%AD%E4%B9%89%E6%9C%AC%E4%BD%93" alt="Typing SVG" />
 </h1>
 
 **以自然语言为输入、以显式规则为指令集的纯符号确定性推演平台。**
@@ -12,14 +12,6 @@
 
 <br />
 
-# 🚦 项目状态：已进入 ASI L5 阶段，测试中
-
-### Project Status: ASI L5 Stage — In Testing
-
-<br />
-
-[![Status](https://img.shields.io/badge/Status-ASI%20L5%20Stage-blueviolet?style=for-the-badge)](#)
-[![Stage](https://img.shields.io/badge/Stage-Testing-yellow?style=for-the-badge)](#)
 [![Route](https://img.shields.io/badge/Route-Symbolic%20%7C%20Deterministic-brightgreen?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/Language-%E4%BB%85%E4%B8%AD%E6%96%87-orange?style=for-the-badge)](#)
 
@@ -29,28 +21,61 @@
 
 # 人工超级智能（ASI）
 
-> ⚠️ **Project Status / 项目状态**
-> The core code repository is currently in **private development** and not yet public.
-> 核心代码仓库当前处于**私有开发阶段，暂未公开**。
-> **The project has entered the ASI L5 stage and is now in testing.**
-> **项目已进入 ASI L5 阶段，现处于测试阶段。**
+> ⚠️ **项目状态 / Project Status**
+> 核心代码仓库当前处于私有开发阶段，暂未公开。
+> *The core code repository is currently in private development and not yet public.*
 
-## 📖 Project Overview / 项目简介
-ASI is a general-purpose semantic execution system based on the **pure symbolic approach**.
-纪元智能（ASI）是一个基于**纯符号主义路线**的通用语义执行系统。
-Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets.
-区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集。
-It builds a deterministic reasoning platform with a minimal kernel and diversity emerging from external loading.
-构建了一个内核极小、多样性由外部加载涌现的确定性推演平台。
+## 📖 项目简介 / Project Overview
 
-## 🗺️ AI Level Matrix & Project Milestones / 智能分级体系与项目里程碑
+纪元智能（ASI）是一个基于纯符号主义路线的通用语义执行系统。区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集，构建了一个内核极小、多样性由外部加载涌现的确定性推演平台。
 
-### 一、Current Macro Stage / 当前宏观阶段
-*   **Current Stage / 当前定位**
-    *   EN: The project has officially entered the **ASI L5 (Artificial Superintelligence L5)** stage, and is now in the **testing stage**.
-    *   CN: 项目已正式跨入 **ASI L5（人工超级智能 L5）** 阶段，现处于**测试阶段**。
+*ASI is a general-purpose semantic execution system based on the pure symbolic approach. Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets, building a deterministic reasoning platform with a minimal kernel and diversity emerging from external loading.*
 
-### 二、ASI L1–L5 Detailed Matrix / ASI L1–L5 详细分级体系
+---
+
+## 🌍 世界顶级 AI 公司 / Leading AI Companies
+
+OpenAI 是世界顶级 AI 公司之一，但不是唯一。当前第一梯队大致包括：OpenAI（GPT 系列）、Google DeepMind（Gemini 系列）、Anthropic（Claude 系列）、Meta（Llama 系列）、xAI（Grok 系列）、Mistral AI，以及中国市场的阿里巴巴、字节跳动、智谱。OpenAI 是这一梯队中的核心公司，但“世界顶级”是由多家公司共同构成的梯队，不是单一公司。
+
+*OpenAI is one of the world's leading AI companies, but not the only one. The current top tier includes OpenAI (GPT), Google DeepMind (Gemini), Anthropic (Claude), Meta (Llama), xAI (Grok), Mistral AI, and China's Alibaba, ByteDance, and Zhipu. OpenAI is a core company in this tier, but "world-leading" is a tier shared by multiple companies, not a single one.*
+
+---
+
+## 🧭 本体定义 / Ontology Definition
+
+本体 = 世界最底层的实在 = 本宇宙的运行规律。世界由时空框架与运算层构成；一切变化由时空之间的重叠运算产生；对象同时具有位置尺度属性与变化时序属性，二者不可分离；对象之间的相互作用，本质都是运算。语言是这层规律上的投影；概率模型拟合投影，未触及本体。
+
+*Ontology = the most fundamental reality = the operating laws of this universe. The world consists of a spacetime framework and a computational layer; all change arises from overlapping operations between spacetime; every object carries both spatial-scale attributes and temporal-sequence attributes, inseparable; interactions between objects are, in essence, operations. Language is a projection onto these laws; probabilistic models fit the projection, never touching the ontology itself.*
+
+---
+
+## 🔗 本体与超级智能的关系 / Relationship Between Ontology and Superintelligence
+
+本体在先，超级智能在后，是衍生关系。现有主流 AI 路线（如 OpenAI）若没有本体，其功能建立在概率拟合之上，无真实时空坐标、无绝对因果、无持久状态记忆，长链条推演易崩，幻觉无法根除。本项目的路线有本体：每次运算落在真实状态节点上，每次状态变化可追溯、可复现，记忆为物理级持久化，超级智能才有可验证的地基。
+
+*Ontology comes first; superintelligence follows. The relationship is derivation. Existing mainstream AI routes (e.g., OpenAI) without ontology rest on probabilistic fitting, lacking real spacetime coordinates, absolute causality, and persistent state memory; long-chain reasoning collapses, hallucinations cannot be eliminated. This project's route has ontology: every operation lands on real state nodes, every state change is traceable and reproducible, memory is physically persistent, and superintelligence gains a verifiable foundation.*
+
+---
+
+## 🧠 超级智能 / Superintelligence
+
+说明：OpenAI 对外交付的是功能，不是技术路线。以下按功能维度描述，不讨论其底层实现方式。
+
+*Note: OpenAI delivers functions, not technical routes. The following describes functional dimensions only.*
+
+### OpenAI 功能维度 / OpenAI Functional Levels
+
+- **L1 聊天机器人 / Chatbots**：自然语言对话，理解并回应用户指令。 / *Natural language dialogue, understanding and responding to user instructions.*
+- **L2 推理者 / Reasoners**：具备人类水平的问题解决能力，处理复杂逻辑与数学。 / *Human-level problem solving, handling complex logic and mathematics.*
+- **L3 智能体 / Agents**：代表用户采取行动，自主拆解任务、调用工具、执行操作。 / *Acting on behalf of users, autonomously decomposing tasks, calling tools, executing operations.*
+- **L4 创新者 / Innovators**：协助发明创造，在科研与工程场景中生成新知识。 / *Assisting invention and creation, generating new knowledge in research and engineering.*
+- **L5 组织者 / Organizations**：完成一整个组织的端到端工作。 / *Completing end-to-end work of an entire organization.*
+
+OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记忆、Agent 执行、多模态生成、实时交互。
+
+*OpenAI's delivered functions include: dialogue and creation, multi-step reasoning, cross-conversation memory, agent execution, multimodal generation, real-time interaction.*
+
+### ASI L1–L5 详细分级体系 / ASI L1–L5 Detailed Matrix
 
 - ✔︎ **L1 平台化承载**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。
 - ✔︎ **L2 跨域超人性能**：语言能描述的领域即可接入；确定性执行，速度、精度、可复现性远超人类与主流系统。
@@ -58,45 +83,33 @@ It builds a deterministic reasoning platform with a minimal kernel and diversity
 - ✔︎ **L4 环境适应型改进**：能适应不同说法、不同数据、不同场景，改进方向由反馈决定。
 - ✔︎ **L5 元标准递归修改与受控闭环**：能修改自身的改进机制本身，形成越改越强的正反馈；面向机器人直控底层设计，不设沙箱、不设权限闸门、不设人工确认，平台完全中立。
 
-**汇总：L1–L5 全 ✔︎。ASI 功能通道成立，当前已进入 ASI L5 阶段，测试中。**
+**汇总：L1–L5 全 ✔︎。当前已进入 ASI L5 阶段，测试中；下一阶段为本体智能。**
 
-### 三、Decade Milestones / 项目十年里程碑 (2017 - 2026)
-*   **[2017.05 - 2026.10] Theoretical Foundation / 理论奠基期 (Completed / 已完成)**
-    *   EN: Nearly a decade of theoretical accumulation. Completed the "Da Dao Zhi Jian" series and the "Superintelligence Scheme".
-    *   CN: 近十年理论积累，完成《大道至简》系列与《超级人工智能方案》。
-    *   EN: Established spacetime laws and fundamental symbolic reasoning logic.
-    *   CN: 确立时空法则与符号推演底层逻辑。
-*   **[2026.10] Core Engine Verified / 核心引擎跑通 (Completed / 已完成)**
-    *   EN: Execution engine testing completed and running stably.
-    *   CN: 执行引擎测试完毕并稳定运行。
-*   **[2026.10 - Present] ASI L5 Stage & Testing / ASI L5 阶段与测试 (Achieved & Testing / 已达成并测试中)**
-    *   EN: Main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing stage.
-    *   CN: 主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试阶段。
+*Summary: L1–L5 all ✔︎. Currently in ASI L5 stage, in testing; the next stage is Ontology Intelligence.*
 
-## ⚙️ Core Features / 核心技术特征
-*   **Explicit Rule-Driven / 显式规则驱动**
-    *   EN: Rejects black-box probabilities, pure symbolic deterministic execution, seeing through underlying logic at a glance.
-    *   CN: 拒绝黑箱概率，纯符号确定性执行，一眼看透底层逻辑。
-*   **Full-Chain Explainable / 全链路可解释**
-    *   EN: Every reasoning result can be 100% traced back to specific rules and nodes, supporting replay and audit.
-    *   CN: 每一次推演结果100%可回溯到具体规则与节点，支持回放与审计。
-*   **Real-time Hot Update / 规则实时热更新**
-    *   EN: Supports versioned hot loading, atomic switching, and failure rollback.
-    *   CN: 支持版本化热加载、原子切换与失败回滚。
-*   **Logic-Rendering Isomorphism / 逻辑与呈现同构**
-    *   EN: Symbolic spacetime nodes map directly to the game world in real-time, requiring no extra rendering code.
-    *   CN: 符号时空节点可直接实时映射为游戏世界画面，无需额外跑图代码。
-*   **Infinite Expansion / 无限扩展**
-    *   EN: Minimal kernel, cross-domain expansion by loading semantic modules, achieving O(n) complexity.
-    *   CN: 内核极小，通过加载不同语义模块即可跨域扩展，实现 O(n) 复杂度的极速处理。
+---
 
-## 📚 Theoretical Works / 理论著作
-*   **《大道至简·纪元定则》 / *Da Dao Zhi Jian · Ji Yuan Ding Ze***
-    *   EN: Meta-rules and Symbolic System. Defines the foundational ontological rules of spacetime, Five Elements, and symbolic execution.
-    *   CN: 元规则与符号体系。定义了时空、五行与符号执行最基础的元规则与本体架构。
-*   **《大道至简·纪元时空》 / *Da Dao Zhi Jian · Ji Yuan Shi Kong***
-    *   EN: Execution Architecture Theory. Proposes that the world consists of information and symbols; any information transfer is a process of spacetime binding, measurement, and computation.
-    *   CN: 执行架构理论。核心命题：世界由信息与符号构成，任何信息的传递与储存，均是时空之间的绑定、度量与运算过程。
-*   **《超级人工智能方案》 / *Superintelligence Scheme***
-    *   EN: From First Principles to Engineering Implementation. Migrates OS architecture to the semantic layer, building a minimal-kernel, self-expanding general intelligence platform.
-    *   CN: 从第一性原理到工程落地。将操作系统架构原理迁移至字符串语义层面，构建支持无限加载、自我扩展的通用智能平台。
+## 🗺️ 项目里程碑 / Project Milestones (2017 - 2026)
+
+- **[2017.05 - 2026.10] 理论奠基期 / Theoretical Foundation（已完成 / Completed）**：近十年理论积累，完成《大道至简》系列与《超级人工智能方案》；确立时空法则与符号推演底层逻辑。 / *Nearly a decade of theoretical accumulation, completing the "Da Dao Zhi Jian" series and the "Superintelligence Scheme"; establishing spacetime laws and fundamental symbolic reasoning logic.*
+- **[2026.10] 核心引擎跑通 / Core Engine Verified（已完成 / Completed）**：执行引擎测试完毕并稳定运行。 / *Execution engine testing completed and running stably.*
+- **[2026.10 - 至今] ASI L5 阶段与测试 / ASI L5 Stage & Testing（已达成并测试中 / Achieved & Testing）**：主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试阶段。 / *Main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing stage.*
+- **[下一阶段] 本体智能 / Ontology Intelligence（下一阶段 / Next Stage）**：从 L5 测试阶段继续向前，以本体为语义基座，确定性运算写回，全链路可解释、可追溯。 / *From L5 testing onward: ontology as semantic foundation, deterministic computation written back, fully explainable and traceable.*
+
+---
+
+## ⚙️ 核心技术特征 / Core Features
+
+- **显式规则驱动 / Explicit Rule-Driven**：拒绝黑箱概率，纯符号确定性执行，一眼看透底层逻辑。 / *Rejects black-box probabilities, pure symbolic deterministic execution, seeing through underlying logic at a glance.*
+- **全链路可解释 / Full-Chain Explainable**：每一次推演结果 100% 可回溯到具体规则与节点，支持回放与审计。 / *Every reasoning result can be 100% traced back to specific rules and nodes, supporting replay and audit.*
+- **规则实时热更新 / Real-time Hot Update**：支持版本化热加载、原子切换与失败回滚。 / *Supports versioned hot loading, atomic switching, and failure rollback.*
+- **逻辑与呈现同构 / Logic-Rendering Isomorphism**：符号时空节点可直接实时映射为游戏世界画面，无需额外跑图代码。 / *Symbolic spacetime nodes map directly to the game world in real-time, requiring no extra rendering code.*
+- **无限扩展 / Infinite Expansion**：内核极小，通过加载不同语义模块即可跨域扩展，实现 O(n) 复杂度的极速处理。 / *Minimal kernel, cross-domain expansion by loading semantic modules, achieving O(n) complexity.*
+
+---
+
+## 📚 理论著作 / Theoretical Works
+
+- **《大道至简·纪元定则》 / Da Dao Zhi Jian · Ji Yuan Ding Ze**：元规则与符号体系。定义了时空、五行与符号执行最基础的元规则与本体架构。 / *Meta-rules and Symbolic System. Defines the foundational ontological rules of spacetime, Five Elements, and symbolic execution.*
+- **《大道至简·纪元时空》 / Da Dao Zhi Jian · Ji Yuan Shi Kong**：执行架构理论。核心命题：世界由信息与符号构成，任何信息的传递与储存，均是时空之间的绑定、度量与运算过程。 / *Execution Architecture Theory. Proposes that the world consists of information and symbols; any information transfer is a process of spacetime binding, measurement, and computation.*
+- **《超级人工智能方案》 / Superintelligence Scheme**：从第一性原理到工程落地。将操作系统架构原理迁移至字符串语义层面，构建支持无限加载、自我扩展的通用智能平台。 / *From First Principles to Engineering Implementation. Migrates OS architecture to the semantic layer, building a minimal-kernel, self-expanding general intelligence platform.*
