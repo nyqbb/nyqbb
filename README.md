@@ -22,8 +22,10 @@
 # 人工超级智能（ASI）
 
 > ⚠️ **项目状态 / Project Status**
-> 核心代码仓库当前处于私有开发阶段，暂未公开。
-> *The core code repository is currently in private development and not yet public.*
+> 核心代码保持闭源，这是项目既定路线，不以公开代码作为能力证明。
+> 系统已可运行，可用性以实际运行结果为准。
+>
+> *The core code remains closed-source as a defined project route; public code is not used as proof of capability. The system is operational, and usability is judged by actual results.*
 
 **项目当前处于 ASI L5 测试阶段，正在向本体智能进发。**
 
