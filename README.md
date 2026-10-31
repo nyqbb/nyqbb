@@ -61,11 +61,17 @@
 
 ## 🧠 超级智能 / Superintelligence
 
-说明：OpenAI 对外交付的是功能，不是技术路线。以下按功能维度描述，不讨论其底层实现方式。
-
-*Note: OpenAI delivers functions, not technical routes. The following describes functional dimensions only.*
+> **必须先强调的一点：技术路线只是实现功能的手段，不是交付物本身。**
+> **用户可感知、可使用、可评价的，是功能；技术路线是功能背后的实现方式。**
+> **因此，以下所有分级均按“功能维度”描述，不按“技术路线”对比。**
+>
+> *One point must be emphasized first: a technical route is only a means of implementing functions, not the deliverable itself. What users can perceive, use, and evaluate are functions; the technical route is the implementation behind the functions. Therefore, all levels below are described by **functional dimensions**, not by **technical-route comparison**.*
 
 ### OpenAI 功能维度 / OpenAI Functional Levels
+
+说明：OpenAI 对外交付的是功能，不是技术路线。以下按功能维度描述其能力演进，不讨论其底层实现方式。
+
+*Note: OpenAI delivers functions, not technical routes. The following describes its capability evolution by functional dimensions only, without discussing its underlying implementation.*
 
 - **L1 聊天机器人 / Chatbots**：自然语言对话，理解并回应用户指令。 / *Natural language dialogue, understanding and responding to user instructions.*
 - **L2 推理者 / Reasoners**：具备人类水平的问题解决能力，处理复杂逻辑与数学。 / *Human-level problem solving, handling complex logic and mathematics.*
@@ -77,7 +83,11 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 *OpenAI's delivered functions include: dialogue and creation, multi-step reasoning, cross-conversation memory, agent execution, multimodal generation, real-time interaction.*
 
-### ASI L1–L5 详细分级体系 / ASI L1–L5 Detailed Matrix
+### ASI L1–L5 分级体系 / ASI L1–L5 Matrix
+
+说明：以下为本项目的 ASI 分级，同样按**功能维度**描述，不是技术路线对比，也不与上述 OpenAI 功能分级构成同一套标准。
+
+*Note: The following is this project's ASI matrix, also described by **functional dimensions**. It is not a technical-route comparison, nor does it form the same standard as the OpenAI functional levels above.*
 
 - ✔︎ **L1 平台化承载**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。
 - ✔︎ **L2 跨域超人性能**：语言能描述的领域即可接入；确定性执行，速度、精度、可复现性远超人类与主流系统。
