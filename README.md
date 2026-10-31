@@ -37,19 +37,21 @@
 
 ---
 
-## 🧭 本体定义 / Ontology Definition
+## 🧭 本体论和超级智能 / Ontology and Superintelligence
 
-本体 = 世界最底层的实在 = 本宇宙的运行规律。世界由时空框架与运算层构成；一切变化由时空之间的重叠运算产生；对象同时具有位置尺度属性与变化时序属性，二者不可分离；对象之间的相互作用，本质都是运算。语言只是描述，未触及本体。
+**本体论（Ontology）**，在哲学上研究“存在本身”——什么东西真正存在、存在的根本方式是什么。它追问的是：这个世界最底层、最根本的实在是什么。
 
-*Ontology = the most fundamental reality = the operating laws of this universe. The world consists of a spacetime framework and a computational layer; all change arises from overlapping operations between spacetime; every object carries both spatial-scale attributes and temporal-sequence attributes, inseparable; interactions between objects are, in essence, operations. Language is only description; it does not touch the ontology itself.*
+**本体（the ontological / the fundamental reality）**，就是本体论所追问的那个答案：世界最底层的实在，本宇宙的运行规律。放到本宇宙里，本体是：世界由时空框架与运算层构成；一切变化由时空之间的重叠运算产生；对象同时具有位置尺度属性与变化时序属性，二者不可分离；对象之间的相互作用，本质都是运算。语言只是描述，未触及本体。
 
----
+*Ontology, in philosophy, studies "being itself"—what truly exists and in what fundamental way. It asks: what is the most fundamental reality of the world? The ontological is the answer to that question: the most fundamental reality, the operating laws of this universe. In this universe, the ontological means: the world consists of a spacetime framework and a computational layer; all change arises from overlapping operations between spacetime; every object carries both spatial-scale attributes and temporal-sequence attributes, inseparable; interactions between objects are, in essence, operations. Language is only description; it does not touch the ontological itself.*
 
-## 🔗 本体与超级智能的关系 / Relationship Between Ontology and Superintelligence
+**本体论在先，超级智能在后，是衍生关系。**
 
-本体在先，超级智能在后，是衍生关系。现有主流 AI 路线（如 OpenAI）若没有本体，其功能建立在概率拟合之上，无真实时空坐标、无绝对因果、无持久状态记忆，长链条推演易崩，幻觉无法根除。本项目的路线有本体：每次运算落在真实状态节点上，每次状态变化可追溯、可复现，记忆为物理级持久化，超级智能才有可验证的地基。
+*Ontology comes first; superintelligence follows. The relationship is derivation.*
 
-*Ontology comes first; superintelligence follows. The relationship is derivation. Existing mainstream AI routes (e.g., OpenAI) without ontology rest on probabilistic fitting, lacking real spacetime coordinates, absolute causality, and persistent state memory; long-chain reasoning collapses, hallucinations cannot be eliminated. This project's route has ontology: every operation lands on real state nodes, every state change is traceable and reproducible, memory is physically persistent, and superintelligence gains a verifiable foundation.*
+现有主流 AI 路线（如 OpenAI）若没有本体论层面的地基，其功能建立在概率拟合之上，无真实时空坐标、无绝对因果、无持久状态记忆，长链条推演易崩，幻觉无法根除。本项目的路线以本体论为基座：每次运算落在真实状态节点上，每次状态变化可追溯、可复现，记忆为物理级持久化，超级智能才有可验证的地基。
+
+*Existing mainstream AI routes (e.g., OpenAI) without an ontological foundation rest on probabilistic fitting, lacking real spacetime coordinates, absolute causality, and persistent state memory; long-chain reasoning collapses, hallucinations cannot be eliminated. This project's route takes ontology as its foundation: every operation lands on real state nodes, every state change is traceable and reproducible, memory is physically persistent, and superintelligence gains a verifiable foundation.*
 
 ---
 
@@ -88,9 +90,8 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 ## 🗺️ 项目里程碑 / Project Milestones (2017 - 2026)
 
 - **[2017.05 - 2026.10] 理论奠基期 / Theoretical Foundation（已完成 / Completed）**：近十年理论积累，完成《大道至简》系列与《超级人工智能方案》；确立时空法则与符号推演底层逻辑。 / *Nearly a decade of theoretical accumulation, completing the "Da Dao Zhi Jian" series and the "Superintelligence Scheme"; establishing spacetime laws and fundamental symbolic reasoning logic.*
-- **[2026.10] 核心引擎跑通 / Core Engine Verified（已完成 / Completed）**：执行引擎测试完毕并稳定运行。 / *Execution engine testing completed and running stably.*
-- **[2026.10 - 至今] ASI L5 阶段与测试 / ASI L5 Stage & Testing（已达成并测试中 / Achieved & Testing）**：主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试阶段。 / *Main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing stage.*
-- **[下一阶段] 本体智能 / Ontology Intelligence（下一阶段 / Next Stage）**：从 L5 测试阶段继续向前，以本体为语义基座，确定性运算写回，全链路可解释、可追溯。 / *From L5 testing onward: ontology as semantic foundation, deterministic computation written back, fully explainable and traceable.*
+- **[2026.10 - 至今] 整体程序完成，进入 ASI L5 阶段与测试 / Overall Program Completed, Entering ASI L5 Stage & Testing（已达成并测试中 / Achieved & Testing）**：整体程序完成，主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试阶段。 / *Overall program completed, main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing stage.*
+- **[下一阶段] 本体智能 / Ontology Intelligence（下一阶段 / Next Stage）**：从 L5 测试阶段继续向前，以本体论为语义基座，确定性运算写回，全链路可解释、可追溯。 / *From L5 testing onward: ontology as semantic foundation, deterministic computation written back, fully explainable and traceable.*
 
 ---
 
