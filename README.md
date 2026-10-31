@@ -38,9 +38,9 @@
 
 *ASI is a general-purpose semantic execution system based on the pure symbolic approach. Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets, building a deterministic reasoning platform with a relatively small kernel and diversity expanded through external loading.*
 
-**这是一条与主流概率路线不同的竞争性路线，不是补充，是替代方案。**
+**这是针对概率拟合路线的替代方案，不是补充。**
 
-*This is a competitive route distinct from the mainstream probabilistic approach—not a supplement, but an alternative.*
+*This is an alternative to the probabilistic-fitting route, not a supplement.*
 
 **长期愿景：从确定性本体出发，向本体智能演进。**
 
@@ -113,7 +113,7 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
   - **判定依据**：面对同一目标的不同表述、不同数据分布或不同输入格式，系统仍能产出符合预期范围的结果；当外部反馈指向偏差时，后续同类输入的输出分布发生可观测的偏移。 / *Evidence: Different phrasings, data distributions, or input formats of the same goal still yield results within the expected range; when external feedback indicates deviation, the output distribution for subsequent similar inputs shifts observably.*
 
 - ✔︎ **L5 元标准递归修改与受控闭环 / Meta-Standard Recursive Modification and Controlled Closed Loop**
-  - **功能**：能修改自身的改进机制本身，形成越改越强的正反馈；按技术路线需要，面向机器人直控设计，为执行更多任务需获取相应的执行权限，适配受控运行环境。 / *Can modify its own improvement mechanisms, forming a self-reinforcing positive feedback loop; as required by the technical route, it is designed for direct robot control, requiring corresponding execution permissions to perform more tasks, and adapted to controlled operating environments.*
+  - **功能**：能修改自身的改进机制本身，形成越改越强的正反馈；按技术路线需要，面向机器人直控设计，并向后续开发者开放相应执行权限，供其在受控运行环境中扩展使用。 / *Can modify its own improvement mechanisms, forming a self-reinforcing positive feedback loop; as required by the technical route, it is designed for direct robot control, opening corresponding execution permissions to downstream developers for extension within controlled operating environments.*
   - **判定依据**：系统的改进规则（而非仅任务结果）可被自身触发修改，修改后的新规则在下一次迭代中生效并产生可追溯的变更记录；每一次规则修改的触发条件、变更内容和后续效果均有日志可查。 / *Evidence: The improvement rules themselves (not merely task outputs) can be modified by the system; the modified rules take effect in the next iteration with a traceable change log; every rule modification's trigger, content, and subsequent effect are auditable.*
 
 汇总：L1–L5 全 ✔︎。当前处于 ASI L5 测试阶段；判定依据的验证方式为系统内可观测的运行记录与前后对比，不依赖外部第三方复现。
