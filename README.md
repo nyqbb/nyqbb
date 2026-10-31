@@ -3,12 +3,12 @@
 <img src="https://avatars.githubusercontent.com/nyqbb" width="120" height="120" style="border-radius:50%;" alt="头像" />
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BA%AA%E5%85%83%E6%99%BA%E8%83%BD%EF%BC%88ASI%EF%BC%89;%E4%BB%8E%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E8%BF%88%E5%90%91%E6%9C%AC%E4%BD%93%E6%99%BA%E8%83%BD;%E7%A1%AE%E5%AE%9A%E6%80%A7%20%C2%B7%20%E5%8F%AF%E8%A7%A3%E9%87%8A%20%C2%B7%20%E5%8F%AF%E5%AE%A1%E8%AE%A1%E7%9A%84%E8%AF%AD%E4%B9%89%E6%9C%AC%E4%BD%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%BA%AA%E5%85%83%E6%99%BA%E8%83%BD%EF%BC%88ASI%EF%BC%89;%E4%BB%8E%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E8%BF%88%E5%90%91%E6%9C%AC%E4%BD%93%E6%99%BA%E8%83%BD;%E7%A1%AE%E5%AE%9A%E6%80%A7%20%C2%B7%20%E5%8F%AF%E8%A7%A3%E9%87%8A%20%C2%B7%20%E5%8F%AF%E5%AE%A1%E8%AE%A1%E7%9A%84%E8%AF%AD%E4%B9%89%E6%89%A7%E8%A1%8C%E7%B3%BB%E7%BB%9F" alt="Typing SVG" />
 </h1>
 
-**以自然语言为输入、以显式规则为指令集的纯符号确定性推演平台。**
+**一个基于显式规则的确定性语义执行系统。**
 
-**超级智能的终极形态。**
+**A deterministic semantic execution system based on explicit rules.**
 
 <br />
 
@@ -31,9 +31,13 @@
 
 ## 📖 项目简介 / Project Overview
 
-纪元智能（ASI）是一个基于纯符号主义路线的通用语义执行系统。区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集，构建了一个内核极小、多样性由外部加载涌现的确定性推演平台。
+纪元智能（ASI）是一个基于纯符号主义路线的通用语义执行系统。区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集，构建了一个内核较小、多样性由外部加载扩展的确定性推演平台。
 
-*ASI is a general-purpose semantic execution system based on the pure symbolic approach. Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets, building a deterministic reasoning platform with a minimal kernel and diversity emerging from external loading.*
+*ASI is a general-purpose semantic execution system based on the pure symbolic approach. Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets, building a deterministic reasoning platform with a relatively small kernel and diversity expanded through external loading.*
+
+**长期愿景：从确定性本体出发，向本体智能演进。**
+
+*Long-term vision: starting from a deterministic ontology, evolving toward Ontology Intelligence.*
 
 ---
 
@@ -49,9 +53,9 @@
 
 *Ontology comes first; superintelligence follows. The relationship is derivation.*
 
-现有主流 AI 路线（如 OpenAI）若没有本体论层面的地基，其功能建立在概率拟合之上，无真实时空坐标、无绝对因果、无持久状态记忆，长链条推演易崩，幻觉无法根除。本项目的路线以本体论为基座：每次运算落在真实状态节点上，每次状态变化可追溯、可复现，记忆为物理级持久化，超级智能才有可验证的地基。
+现有主流 AI 路线（如 OpenAI）若没有本体论层面的地基，其功能建立在概率拟合之上，难以获得真实时空坐标、绝对因果与持久状态记忆，长链条推演容易失稳。本项目的路线以本体论为基座：每次运算落在真实状态节点上，每次状态变化可追溯、可复现，记忆为物理级持久化，超级智能才有可验证的地基。
 
-*Existing mainstream AI routes (e.g., OpenAI) without an ontological foundation rest on probabilistic fitting, lacking real spacetime coordinates, absolute causality, and persistent state memory; long-chain reasoning collapses, hallucinations cannot be eliminated. This project's route takes ontology as its foundation: every operation lands on real state nodes, every state change is traceable and reproducible, memory is physically persistent, and superintelligence gains a verifiable foundation.*
+*Existing mainstream AI routes (e.g., OpenAI) without an ontological foundation rest on probabilistic fitting, making it difficult to obtain real spacetime coordinates, absolute causality, and persistent state memory; long-chain reasoning tends to destabilize. This project's route takes ontology as its foundation: every operation lands on real state nodes, every state change is traceable and reproducible, memory is physically persistent, and superintelligence gains a verifiable foundation.*
 
 ---
 
@@ -98,13 +102,9 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 ## ⚙️ 核心技术特征 / Core Features
 
 - **规则驱动为主 / Rule-Driven First**：系统以显式规则为主要执行依据，尽量避免不可控的随机行为，底层逻辑保持可读。 / *The system primarily executes on explicit rules, minimizing uncontrolled randomness and keeping underlying logic readable.*
-
 - **结果可追溯 / Traceable Results**：推演过程保留记录，结果能够回溯到对应的规则与状态，便于回放与核查。 / *Reasoning processes are recorded; results can be traced back to corresponding rules and states for replay and verification.*
-
 - **规则支持热更新 / Hot-Updatable Rules**：规则模块支持版本化管理，可在运行中更新，并保留切换与回退机制。 / *Rule modules support versioned management, can be updated at runtime, with switching and rollback mechanisms.*
-
 - **逻辑与呈现保持一致 / Consistent Logic and Rendering**：符号状态与画面呈现保持对应关系，减少额外适配层。 / *Symbolic states correspond to rendered output, reducing extra adaptation layers.*
-
 - **内核精简，按需扩展 / Minimal Kernel, Modular Expansion**：内核保持精简，扩展能力主要通过外部模块加载实现。 / *The kernel stays minimal; expansion is mainly achieved through external module loading.*
 
 ---
@@ -117,34 +117,32 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 ---
 
-## 🌍 世界顶级 AI 公司强度排名 / Leading AI Companies by Strength (Oct 2026)
+## 🌍 行业 AI 公司索引 / AI Companies Index
 
-说明：以下排名综合年化营收、模型能力、人才密度、学术影响力与估值/市值五个维度，不是单一财务指标排序。
+说明：以下仅为公开信息整理，用于行业索引与生态参考，不是评测或排名，不代表对标、竞争或评价。
 
-*Note: The ranking below integrates ARR, model capability, talent density, academic impact, and valuation/market cap. It is not a single-metric financial ranking.*
+*Note: The following is a compilation of public information for industry indexing and ecosystem reference only. It is not an evaluation or ranking, and does not represent benchmarking, competition, or judgment.*
 
-1. **@anthropics**（Anthropic）：ARR 约 650 亿美元，全球第一；人才密度第一，从 OpenAI 净流入比约 8:1；Claude 系列在多个模型榜单登顶。 / *ARR ~$65B, #1 globally; #1 talent density; Claude tops multiple model leaderboards.*
+**国际 / International**
 
-2. **@openai**（OpenAI）：ARR 约 400 亿美元；学术引用量占全行业近 40%，断层第一；GPT 系列仍是消费级 AI 的定义者。 / *ARR ~$40B; ~40% of all AI academic citations; GPT remains the consumer-AI benchmark.*
+- **@openai**（OpenAI）：持续迭代中，处于商业化推进阶段。
+- **@anthropics**（Anthropic）：持续迭代中，处于企业市场拓展阶段。
+- **@google-deepmind**（Google DeepMind）：持续迭代中，处于基础设施与模型研发推进阶段。
+- **@meta-llama**（Meta）：持续迭代中，处于开源生态维护与扩展阶段。
+- **@xai-org**（xAI）：持续迭代中，处于平台整合与产品推进阶段。
+- **@mistralai**（Mistral AI）：持续迭代中，处于欧洲市场拓展阶段。
 
-3. **@google-deepmind**（Google DeepMind）：Alphabet 市值 4.29 万亿美元；Gemini 系列稳居第一梯队；基础设施与算力储备行业最强。 / *Alphabet market cap $4.29T; Gemini consistently top-tier; strongest infrastructure and compute reserves.*
+**国内 / China**
 
-4. **@bytedance**（字节跳动 / ByteDance）：估值约 4800 亿美元，全球 AI 独角兽前三；豆包国内调用量领先；AI 年化营收约 40 亿美元，居中国公司之首。 / *Valuation ~$480B; Doubao leads domestic token calls; AI ARR ~$4B, highest among Chinese companies.*
-
-5. **@deepseek-ai**（DeepSeek）：估值约 3500–4000 亿元人民币；模型能力全球第二，仅次于 Claude；以极致智效比重塑行业成本结构。 / *Valuation ~RMB 350–400B; model ranked #2 globally behind Claude; intelligence-per-cost reshaped industry economics.*
-
-6. **@meta-llama**（Meta）：市值 1.88 万亿美元；Llama 系列是全球开源模型生态的基石。 / *Market cap $1.88T; Llama series is the backbone of the global open-source model ecosystem.*
-
-7. **@zai-org**（智谱 / Zhipu）：港股上市，市值约 4400–5100 亿港元，居中国 AI 四小龙之首；GLM 系列为国内第一梯队。 / *HK-listed, market cap ~HK$440–510B, #1 among China's Four AI Dragons; GLM is a domestic top-tier model.*
-
-8. **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：市值约 3960 亿美元；Qwen 是全球下载量最高的开源模型家族之一。 / *Market cap ~$396B; Qwen is one of the most downloaded open-source model families globally.*
-
-9. **@xai-org**（xAI）：Grok 系列快速迭代；依托 X 平台拥有独特分发优势；人才留存与治理被第三方评估列为风险项。 / *Grok iterating rapidly; unique distribution via X; talent retention and governance flagged as risks.*
-
-10. **@MoonshotAI**（Kimi / 月之暗面）：估值突破 200 亿美元，半年涨约 7 倍；Kimi K3 全球第 4，代表中国开源模型冲击头部。 / *Valuation >$20B, ~7× in six months; Kimi K3 ranked #4 globally.*
-
-11. **@MiniMax-AI**（MiniMax）：港股上市，市值约 2500 亿港元；H3 全球第 12；AI 年化营收约 8 亿美元。 / *HK-listed, market cap ~HK$250B; H3 ranked #12 globally; AI ARR ~$800M.*
-
-12. **@mistralai**（Mistral AI）：欧洲代表性 AI 公司；Mistral Large 系列持续迭代；在开源与闭源之间保持独特定位。 / *Europe's flagship AI company; Mistral Large iterating; unique positioning between open and closed models.*
-
-其他重要公司 / Other notable companies：**@Tencent**（混元 / Hunyuan）、**@baidu** / **@Baidu-AIP**（文心 / ERNIE）、**@Huawei**（盘古 / Pangu）、**@01-ai**（Yi）、**@stepfun-ai**（Step）、**@baichuan-inc**（百川）。
+- **@bytedance**（字节跳动 / ByteDance）：持续迭代中，处于国内规模化应用阶段。
+- **@deepseek-ai**（DeepSeek）：持续迭代中，处于模型研发与成本优化阶段。
+- **@zai-org**（智谱 / Zhipu）：持续迭代中，处于港股上市后的业务推进阶段。
+- **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：持续迭代中，处于开源生态与云服务整合阶段。
+- **@MoonshotAI**（Kimi / 月之暗面）：持续迭代中，处于模型研发与市场拓展阶段。
+- **@MiniMax-AI**（MiniMax）：持续迭代中，处于港股上市后的业务推进阶段。
+- **@Tencent**（腾讯 / Tencent）：持续迭代中，处于内部业务整合与对外服务推进阶段。
+- **@baidu** / **@Baidu-AIP**（百度 / Baidu）：持续迭代中，处于云与模型服务推进阶段。
+- **@Huawei**（华为 / Huawei）：持续迭代中，处于行业应用与基础设施推进阶段。
+- **@01-ai**（零一万物 / 01.AI）：持续迭代中，处于模型研发与商业探索阶段。
+- **@stepfun-ai**（阶跃星辰 / StepFun）：持续迭代中，处于模型研发与场景落地阶段。
+- **@baichuan-inc**（百川智能 / Baichuan）：持续迭代中，处于模型研发与医疗等垂直场景推进阶段。
