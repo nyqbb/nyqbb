@@ -96,11 +96,15 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 ## ⚙️ 核心技术特征 / Core Features
 
-- **显式规则驱动 / Explicit Rule-Driven**：拒绝黑箱概率，纯符号确定性执行，一眼看透底层逻辑。 / *Rejects black-box probabilities, pure symbolic deterministic execution, seeing through underlying logic at a glance.*
-- **全链路可解释 / Full-Chain Explainable**：每一次推演结果 100% 可回溯到具体规则与节点，支持回放与审计。 / *Every reasoning result can be 100% traced back to specific rules and nodes, supporting replay and audit.*
-- **规则实时热更新 / Real-time Hot Update**：支持版本化热加载、原子切换与失败回滚。 / *Supports versioned hot loading, atomic switching, and failure rollback.*
-- **逻辑与呈现同构 / Logic-Rendering Isomorphism**：符号时空节点可直接实时映射为游戏世界画面，无需额外跑图代码。 / *Symbolic spacetime nodes map directly to the game world in real-time, requiring no extra rendering code.*
-- **无限扩展 / Infinite Expansion**：内核极小，通过加载不同语义模块即可跨域扩展，实现 O(n) 复杂度的极速处理。 / *Minimal kernel, cross-domain expansion by loading semantic modules, achieving O(n) complexity.*
+- **规则驱动为主 / Rule-Driven First**：系统以显式规则为主要执行依据，尽量避免不可控的随机行为，底层逻辑保持可读。 / *The system primarily executes on explicit rules, minimizing uncontrolled randomness and keeping underlying logic readable.*
+
+- **结果可追溯 / Traceable Results**：推演过程保留记录，结果能够回溯到对应的规则与状态，便于回放与核查。 / *Reasoning processes are recorded; results can be traced back to corresponding rules and states for replay and verification.*
+
+- **规则支持热更新 / Hot-Updatable Rules**：规则模块支持版本化管理，可在运行中更新，并保留切换与回退机制。 / *Rule modules support versioned management, can be updated at runtime, with switching and rollback mechanisms.*
+
+- **逻辑与呈现保持一致 / Consistent Logic and Rendering**：符号状态与画面呈现保持对应关系，减少额外适配层。 / *Symbolic states correspond to rendered output, reducing extra adaptation layers.*
+
+- **内核精简，按需扩展 / Minimal Kernel, Modular Expansion**：内核保持精简，扩展能力主要通过外部模块加载实现。 / *The kernel stays minimal; expansion is mainly achieved through external module loading.*
 
 ---
 
