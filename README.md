@@ -25,6 +25,10 @@
 > 核心代码仓库当前处于私有开发阶段，暂未公开。
 > *The core code repository is currently in private development and not yet public.*
 
+**项目当前处于 ASI L5 测试阶段，正在向本体智能进发。**
+
+*The project is currently in the ASI L5 testing stage, advancing toward Ontology Intelligence.*
+
 ## 📖 项目简介 / Project Overview
 
 纪元智能（ASI）是一个基于纯符号主义路线的通用语义执行系统。区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集，构建了一个内核极小、多样性由外部加载涌现的确定性推演平台。
