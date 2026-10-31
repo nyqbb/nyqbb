@@ -14,6 +14,7 @@
 
 [![Route](https://img.shields.io/badge/Route-Symbolic%20%7C%20Deterministic-brightgreen?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/Language-%E4%BB%85%E4%B8%AD%E6%96%87-orange?style=for-the-badge)](#)
+[![Stance](https://img.shields.io/badge/Stance-Open%20Competition-c96a1b?style=for-the-badge)](#)
 
 </div>
 
@@ -36,6 +37,10 @@
 纪元智能（ASI）是一个基于纯符号主义路线的通用语义执行系统。区别于传统的连接主义（大模型概率拟合），我们以自然语言为输入，以显式规则表为指令集，构建了一个内核较小、多样性由外部加载扩展的确定性推演平台。
 
 *ASI is a general-purpose semantic execution system based on the pure symbolic approach. Unlike connectionism (probabilistic fitting of large models), it uses natural language as input and explicit rule tables as instruction sets, building a deterministic reasoning platform with a relatively small kernel and diversity expanded through external loading.*
+
+**这是一条与主流概率路线不同的竞争性路线，不是补充，是替代方案。**
+
+*This is a competitive route distinct from the mainstream probabilistic approach—not a supplement, but an alternative.*
 
 **长期愿景：从确定性本体出发，向本体智能演进。**
 
@@ -87,9 +92,9 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 ### ASI L1–L5 分级体系：功能与判定依据 / ASI L1–L5: Functions and Evidence
 
-说明：本分级参照公开的功能分级标准，每一级同时给出“功能描述”和“判定依据”。判定依据不是技术路线说明，而是**可观测、可对比的达成锚点**——凭什么判定系统已处于该级，而不是仅仅宣称。
+说明：本分级参照行业公开讨论的功能分级框架，并按本项目功能重新定义判定锚点。每一级同时给出“功能描述”和“判定依据”——凭什么判定系统已处于该级，而不是仅仅宣称。
 
-*Note: This matrix follows publicly available functional-grading standards. Each level provides both a functional description and an evidence basis. The evidence basis is not a technical-route explanation, but an observable, comparable anchor for judging whether the level has been reached—rather than merely claimed.*
+*Note: This matrix follows publicly discussed functional-grading frameworks in the industry, with evidence anchors redefined by this project's functions. Each level provides both a functional description and an evidence basis—why the system is judged to be at this level, rather than merely claimed.*
 
 - ✔︎ **L1 平台化承载 / Platform Bearing**
   - **功能**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。 / *The platform can carry arbitrary semantic units and knowledge modules, with no domain limit and continuous expansion.*
@@ -120,7 +125,7 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 ## 🗺️ 项目里程碑 / Project Milestones (2017 - 2026)
 
 - **[2017.05 - 2026.10] 理论奠基期 / Theoretical Foundation（已完成 / Completed）**：近十年理论积累，完成《大道至简》系列与《超级人工智能方案》；确立时空法则与符号推演底层逻辑。 / *Nearly a decade of theoretical accumulation, completing the "Da Dao Zhi Jian" series and the "Superintelligence Scheme"; establishing spacetime laws and fundamental symbolic reasoning logic.*
-- **[2026.10 - 至今] 整体程序完成，进入 ASI L5 阶段与测试 / Overall Program Completed, Entering ASI L5 Stage & Testing（已达成并测试中 / Achieved & Testing）**：整体程序完成，主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试阶段。 / *Overall program completed, main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing stage.*
+- **[2026.10 - 至今] 整体程序完成，进入 ASI L5 阶段与测试 / Overall Program Completed, Entering ASI L5 Stage & Testing（已达成并测试中 / Achieved & Testing）**：整体程序完成，主链跑通，核心机制闭合，正式跨入 ASI L5 阶段并进入测试验证阶段。 / *Overall program completed, main chain verified, core mechanisms closed, officially entering the ASI L5 stage and the testing/verification stage.*
 - **[下一阶段] 本体智能 / Ontology Intelligence（下一阶段 / Next Stage）**：从 L5 测试阶段继续向前，以本体论为语义基座，确定性运算写回，全链路可解释、可追溯。 / *From L5 testing onward: ontology as semantic foundation, deterministic computation written back, fully explainable and traceable.*
 
 ---
@@ -145,30 +150,30 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 ## 🌍 行业 AI 公司索引 / AI Companies Index
 
-说明：以下仅为公开信息整理，用于行业索引与生态参考，不是评测或排名，不代表对标、竞争或评价。
+说明：以下为公开竞争视角下的行业索引。列出各公司在做什么、走到哪一步，同时标出与本项目路线的差异。不是评测，是对手地图。
 
-*Note: The following is a compilation of public information for industry indexing and ecosystem reference only. It is not an evaluation or ranking, and does not represent benchmarking, competition, or judgment.*
+*Note: An industry index from an open-competition perspective. It lists what each company is doing and where it stands, while marking the difference from this project's route. Not an evaluation—a competitor map.*
 
 **国际 / International**
 
-- **@openai**（OpenAI）：持续迭代中，处于商业化推进阶段。
-- **@anthropics**（Anthropic）：持续迭代中，处于企业市场拓展阶段。
-- **@google-deepmind**（Google DeepMind）：持续迭代中，处于基础设施与模型研发推进阶段。
-- **@meta-llama**（Meta）：持续迭代中，处于开源生态维护与扩展阶段。
-- **@xai-org**（xAI）：持续迭代中，处于平台整合与产品推进阶段。
-- **@mistralai**（Mistral AI）：持续迭代中，处于欧洲市场拓展阶段。
+- **@openai**（OpenAI）：概率拟合路线的代表，商业化推进中。与本项目差异：无本体论地基，依赖规模扩展。 / *Representative of the probabilistic-fitting route, advancing commercialization. Difference: no ontological foundation, relies on scale.*
+- **@anthropics**（Anthropic）：概率拟合路线，企业市场与安全研究并进。与本项目差异：安全靠外部约束，非本体内生。 / *Probabilistic route, advancing enterprise markets and safety research. Difference: safety via external constraints, not ontology-internal.*
+- **@google-deepmind**（Google DeepMind）：概率拟合路线，基础设施与模型研发领先。与本项目差异：算力规模优势，非确定性执行。 / *Probabilistic route, leading in infrastructure and model R&D. Difference: compute-scale advantage, not deterministic execution.*
+- **@meta-llama**（Meta）：开源概率模型生态的基石。与本项目差异：开源权重，非规则本体。 / *Backbone of the open-source probabilistic ecosystem. Difference: open weights, not rule-based ontology.*
+- **@xai-org**（xAI）：概率拟合路线，平台整合推进中。与本项目差异：分发优势，非本体路线。 / *Probabilistic route, advancing platform integration. Difference: distribution advantage, not ontology route.*
+- **@mistralai**（Mistral AI）：欧洲概率模型代表，开源与闭源之间定位。与本项目差异：区域生态，非本体路线。 / *Europe's probabilistic representative, positioned between open and closed. Difference: regional ecosystem, not ontology route.*
 
 **国内 / China**
 
-- **@bytedance**（字节跳动 / ByteDance）：持续迭代中，处于国内规模化应用阶段。
-- **@deepseek-ai**（DeepSeek）：持续迭代中，处于模型研发与成本优化阶段。
-- **@zai-org**（智谱 / Zhipu）：持续迭代中，处于港股上市后的业务推进阶段。
-- **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：持续迭代中，处于开源生态与云服务整合阶段。
-- **@MoonshotAI**（Kimi / 月之暗面）：持续迭代中，处于模型研发与市场拓展阶段。
-- **@MiniMax-AI**（MiniMax）：持续迭代中，处于港股上市后的业务推进阶段。
-- **@Tencent**（腾讯 / Tencent）：持续迭代中，处于内部业务整合与对外服务推进阶段。
-- **@baidu** / **@Baidu-AIP**（百度 / Baidu）：持续迭代中，处于云与模型服务推进阶段。
-- **@Huawei**（华为 / Huawei）：持续迭代中，处于行业应用与基础设施推进阶段。
-- **@01-ai**（零一万物 / 01.AI）：持续迭代中，处于模型研发与商业探索阶段。
-- **@stepfun-ai**（阶跃星辰 / StepFun）：持续迭代中，处于模型研发与场景落地阶段。
-- **@baichuan-inc**（百川智能 / Baichuan）：持续迭代中，处于模型研发与医疗等垂直场景推进阶段。
+- **@bytedance**（字节跳动 / ByteDance）：概率拟合路线，规模化应用推进中。与本项目差异：流量与场景优势，非确定性本体。 / *Probabilistic route, advancing large-scale applications. Difference: traffic and scenario advantage, not deterministic ontology.*
+- **@deepseek-ai**（DeepSeek）：概率拟合路线，成本优化见长。与本项目差异：智效比优势，非本体路线。 / *Probabilistic route, strong in cost optimization. Difference: intelligence-per-cost advantage, not ontology route.*
+- **@zai-org**（智谱 / Zhipu）：概率拟合路线，港股上市后业务推进。与本项目差异：国内生态位，非本体路线。 / *Probabilistic route, advancing post-HK-listing. Difference: domestic ecosystem position, not ontology route.*
+- **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：概率拟合路线，开源生态与云整合。与本项目差异：云与开源规模，非本体路线。 / *Probabilistic route, open-source ecosystem and cloud integration. Difference: cloud and open-source scale, not ontology route.*
+- **@MoonshotAI**（Kimi / 月之暗面）：概率拟合路线，模型研发与市场拓展。与本项目差异：长上下文产品化，非本体路线。 / *Probabilistic route, model R&D and market expansion. Difference: long-context productization, not ontology route.*
+- **@MiniMax-AI**（MiniMax）：概率拟合路线，港股上市后推进。与本项目差异：多模态产品化，非本体路线。 / *Probabilistic route, advancing post-HK-listing. Difference: multimodal productization, not ontology route.*
+- **@Tencent**（腾讯 / Tencent）：概率拟合路线，内部业务整合。与本项目差异：场景与数据优势，非本体路线。 / *Probabilistic route, internal business integration. Difference: scenario and data advantage, not ontology route.*
+- **@baidu** / **@Baidu-AIP**（百度 / Baidu）：概率拟合路线，云与模型服务推进。与本项目差异：云服务入口，非本体路线。 / *Probabilistic route, advancing cloud and model services. Difference: cloud service entry, not ontology route.*
+- **@Huawei**（华为 / Huawei）：概率拟合路线，行业应用与基础设施推进。与本项目差异：硬件与行业落地，非本体路线。 / *Probabilistic route, advancing industry applications and infrastructure. Difference: hardware and industry deployment, not ontology route.*
+- **@01-ai**（零一万物 / 01.AI）：概率拟合路线，模型研发与商业探索。与本项目差异：应用层探索，非本体路线。 / *Probabilistic route, model R&D and commercial exploration. Difference: application-layer exploration, not ontology route.*
+- **@stepfun-ai**（阶跃星辰 / StepFun）：概率拟合路线，模型研发与场景落地。与本项目差异：多模态场景，非本体路线。 / *Probabilistic route, model R&D and scenario deployment. Difference: multimodal scenarios, not ontology route.*
+- **@baichuan-inc**（百川智能 / Baichuan）：概率拟合路线，医疗等垂直场景推进。与本项目差异：垂直行业深耕，非本体路线。 / *Probabilistic route, advancing vertical scenarios such as healthcare. Difference: vertical industry focus, not ontology route.*
