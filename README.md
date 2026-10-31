@@ -33,40 +33,6 @@
 
 ---
 
-## 🌍 世界顶级 AI 公司强度排名 / Leading AI Companies by Strength (Oct 2026)
-
-说明：以下排名综合年化营收、模型能力、人才密度、学术影响力与估值/市值五个维度，不是单一财务指标排序。
-
-*Note: The ranking below integrates ARR, model capability, talent density, academic impact, and valuation/market cap. It is not a single-metric financial ranking.*
-
-1. **@anthropics**（Anthropic）：ARR 约 650 亿美元，全球第一；人才密度第一，从 OpenAI 净流入比约 8:1；Claude 系列在多个模型榜单登顶。 / *ARR ~$65B, #1 globally; #1 talent density; Claude tops multiple model leaderboards.*
-
-2. **@openai**（OpenAI）：ARR 约 400 亿美元；学术引用量占全行业近 40%，断层第一；GPT 系列仍是消费级 AI 的定义者。 / *ARR ~$40B; ~40% of all AI academic citations; GPT remains the consumer-AI benchmark.*
-
-3. **@google-deepmind**（Google DeepMind）：Alphabet 市值 4.29 万亿美元；Gemini 系列稳居第一梯队；基础设施与算力储备行业最强。 / *Alphabet market cap $4.29T; Gemini consistently top-tier; strongest infrastructure and compute reserves.*
-
-4. **@bytedance**（字节跳动 / ByteDance）：估值约 4800 亿美元，全球 AI 独角兽前三；豆包国内调用量领先；AI 年化营收约 40 亿美元，居中国公司之首。 / *Valuation ~$480B; Doubao leads domestic token calls; AI ARR ~$4B, highest among Chinese companies.*
-
-5. **@deepseek-ai**（DeepSeek）：估值约 3500–4000 亿元人民币；模型能力全球第二，仅次于 Claude；以极致智效比重塑行业成本结构。 / *Valuation ~RMB 350–400B; model ranked #2 globally behind Claude; intelligence-per-cost reshaped industry economics.*
-
-6. **@meta-llama**（Meta）：市值 1.88 万亿美元；Llama 系列是全球开源模型生态的基石。 / *Market cap $1.88T; Llama series is the backbone of the global open-source model ecosystem.*
-
-7. **@zai-org**（智谱 / Zhipu）：港股上市，市值约 4400–5100 亿港元，居中国 AI 四小龙之首；GLM 系列为国内第一梯队。 / *HK-listed, market cap ~HK$440–510B, #1 among China's Four AI Dragons; GLM is a domestic top-tier model.*
-
-8. **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：市值约 3960 亿美元；Qwen 是全球下载量最高的开源模型家族之一。 / *Market cap ~$396B; Qwen is one of the most downloaded open-source model families globally.*
-
-9. **@xai-org**（xAI）：Grok 系列快速迭代；依托 X 平台拥有独特分发优势；人才留存与治理被第三方评估列为风险项。 / *Grok iterating rapidly; unique distribution via X; talent retention and governance flagged as risks.*
-
-10. **@MoonshotAI**（Kimi / 月之暗面）：估值突破 200 亿美元，半年涨约 7 倍；Kimi K3 全球第 4，代表中国开源模型冲击头部。 / *Valuation >$20B, ~7× in six months; Kimi K3 ranked #4 globally.*
-
-11. **@MiniMax-AI**（MiniMax）：港股上市，市值约 2500 亿港元；H3 全球第 12；AI 年化营收约 8 亿美元。 / *HK-listed, market cap ~HK$250B; H3 ranked #12 globally; AI ARR ~$800M.*
-
-12. **@mistralai**（Mistral AI）：欧洲代表性 AI 公司；Mistral Large 系列持续迭代；在开源与闭源之间保持独特定位。 / *Europe's flagship AI company; Mistral Large iterating; unique positioning between open and closed models.*
-
-其他重要公司 / Other notable companies：**@Tencent**（混元 / Hunyuan）、**@baidu** / **@Baidu-AIP**（文心 / ERNIE）、**@Huawei**（盘古 / Pangu）、**@01-ai**（Yi）、**@stepfun-ai**（Step）、**@baichuan-inc**（百川）。
-
----
-
 ## 🧭 本体定义 / Ontology Definition
 
 本体 = 世界最底层的实在 = 本宇宙的运行规律。世界由时空框架与运算层构成；一切变化由时空之间的重叠运算产生；对象同时具有位置尺度属性与变化时序属性，二者不可分离；对象之间的相互作用，本质都是运算。语言只是描述，未触及本体。
@@ -139,3 +105,37 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 - **《大道至简·纪元定则》 / Da Dao Zhi Jian · Ji Yuan Ding Ze**：元规则与符号体系。定义了时空、五行与符号执行最基础的元规则与本体架构。 / *Meta-rules and Symbolic System. Defines the foundational ontological rules of spacetime, Five Elements, and symbolic execution.*
 - **《大道至简·纪元时空》 / Da Dao Zhi Jian · Ji Yuan Shi Kong**：执行架构理论。核心命题：世界由信息与符号构成，任何信息的传递与储存，均是时空之间的绑定、度量与运算过程。 / *Execution Architecture Theory. Proposes that the world consists of information and symbols; any information transfer is a process of spacetime binding, measurement, and computation.*
 - **《超级人工智能方案》 / Superintelligence Scheme**：从第一性原理到工程落地。将操作系统架构原理迁移至字符串语义层面，构建支持无限加载、自我扩展的通用智能平台。 / *From First Principles to Engineering Implementation. Migrates OS architecture to the semantic layer, building a minimal-kernel, self-expanding general intelligence platform.*
+
+---
+
+## 🌍 世界顶级 AI 公司强度排名 / Leading AI Companies by Strength (Oct 2026)
+
+说明：以下排名综合年化营收、模型能力、人才密度、学术影响力与估值/市值五个维度，不是单一财务指标排序。
+
+*Note: The ranking below integrates ARR, model capability, talent density, academic impact, and valuation/market cap. It is not a single-metric financial ranking.*
+
+1. **@anthropics**（Anthropic）：ARR 约 650 亿美元，全球第一；人才密度第一，从 OpenAI 净流入比约 8:1；Claude 系列在多个模型榜单登顶。 / *ARR ~$65B, #1 globally; #1 talent density; Claude tops multiple model leaderboards.*
+
+2. **@openai**（OpenAI）：ARR 约 400 亿美元；学术引用量占全行业近 40%，断层第一；GPT 系列仍是消费级 AI 的定义者。 / *ARR ~$40B; ~40% of all AI academic citations; GPT remains the consumer-AI benchmark.*
+
+3. **@google-deepmind**（Google DeepMind）：Alphabet 市值 4.29 万亿美元；Gemini 系列稳居第一梯队；基础设施与算力储备行业最强。 / *Alphabet market cap $4.29T; Gemini consistently top-tier; strongest infrastructure and compute reserves.*
+
+4. **@bytedance**（字节跳动 / ByteDance）：估值约 4800 亿美元，全球 AI 独角兽前三；豆包国内调用量领先；AI 年化营收约 40 亿美元，居中国公司之首。 / *Valuation ~$480B; Doubao leads domestic token calls; AI ARR ~$4B, highest among Chinese companies.*
+
+5. **@deepseek-ai**（DeepSeek）：估值约 3500–4000 亿元人民币；模型能力全球第二，仅次于 Claude；以极致智效比重塑行业成本结构。 / *Valuation ~RMB 350–400B; model ranked #2 globally behind Claude; intelligence-per-cost reshaped industry economics.*
+
+6. **@meta-llama**（Meta）：市值 1.88 万亿美元；Llama 系列是全球开源模型生态的基石。 / *Market cap $1.88T; Llama series is the backbone of the global open-source model ecosystem.*
+
+7. **@zai-org**（智谱 / Zhipu）：港股上市，市值约 4400–5100 亿港元，居中国 AI 四小龙之首；GLM 系列为国内第一梯队。 / *HK-listed, market cap ~HK$440–510B, #1 among China's Four AI Dragons; GLM is a domestic top-tier model.*
+
+8. **@alibaba** / **@QwenLM**（阿里巴巴 / Alibaba）：市值约 3960 亿美元；Qwen 是全球下载量最高的开源模型家族之一。 / *Market cap ~$396B; Qwen is one of the most downloaded open-source model families globally.*
+
+9. **@xai-org**（xAI）：Grok 系列快速迭代；依托 X 平台拥有独特分发优势；人才留存与治理被第三方评估列为风险项。 / *Grok iterating rapidly; unique distribution via X; talent retention and governance flagged as risks.*
+
+10. **@MoonshotAI**（Kimi / 月之暗面）：估值突破 200 亿美元，半年涨约 7 倍；Kimi K3 全球第 4，代表中国开源模型冲击头部。 / *Valuation >$20B, ~7× in six months; Kimi K3 ranked #4 globally.*
+
+11. **@MiniMax-AI**（MiniMax）：港股上市，市值约 2500 亿港元；H3 全球第 12；AI 年化营收约 8 亿美元。 / *HK-listed, market cap ~HK$250B; H3 ranked #12 globally; AI ARR ~$800M.*
+
+12. **@mistralai**（Mistral AI）：欧洲代表性 AI 公司；Mistral Large 系列持续迭代；在开源与闭源之间保持独特定位。 / *Europe's flagship AI company; Mistral Large iterating; unique positioning between open and closed models.*
+
+其他重要公司 / Other notable companies：**@Tencent**（混元 / Hunyuan）、**@baidu** / **@Baidu-AIP**（文心 / ERNIE）、**@Huawei**（盘古 / Pangu）、**@01-ai**（Yi）、**@stepfun-ai**（Step）、**@baichuan-inc**（百川）。
