@@ -87,9 +87,9 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 ### ASI L1–L5 分级体系：功能与判定依据 / ASI L1–L5: Functions and Evidence
 
-说明：本分级参照通用功能分级思路，每一级同时给出“功能描述”和“判定依据”。判定依据不是技术路线说明，而是**可观测、可对比的达成锚点**——凭什么判定系统已处于该级，而不是仅仅宣称。
+说明：本分级参照公开的功能分级标准，每一级同时给出“功能描述”和“判定依据”。判定依据不是技术路线说明，而是**可观测、可对比的达成锚点**——凭什么判定系统已处于该级，而不是仅仅宣称。
 
-*Note: This matrix follows a general functional-grading approach. Each level provides both a functional description and an evidence basis. The evidence basis is not a technical-route explanation, but an observable, comparable anchor for judging whether the level has been reached—rather than merely claimed.*
+*Note: This matrix follows publicly available functional-grading standards. Each level provides both a functional description and an evidence basis. The evidence basis is not a technical-route explanation, but an observable, comparable anchor for judging whether the level has been reached—rather than merely claimed.*
 
 - ✔︎ **L1 平台化承载 / Platform Bearing**
   - **功能**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。 / *The platform can carry arbitrary semantic units and knowledge modules, with no domain limit and continuous expansion.*
@@ -108,7 +108,7 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
   - **判定依据**：面对同一目标的不同表述、不同数据分布或不同输入格式，系统仍能产出符合预期范围的结果；当外部反馈指向偏差时，后续同类输入的输出分布发生可观测的偏移。 / *Evidence: Different phrasings, data distributions, or input formats of the same goal still yield results within the expected range; when external feedback indicates deviation, the output distribution for subsequent similar inputs shifts observably.*
 
 - ✔︎ **L5 元标准递归修改与受控闭环 / Meta-Standard Recursive Modification and Controlled Closed Loop**
-  - **功能**：能修改自身的改进机制本身，形成越改越强的正反馈；面向机器人直控设计，适配受控运行环境。 / *Can modify its own improvement mechanisms, forming a self-reinforcing positive feedback loop; designed for direct robot control, adapted to controlled operating environments.*
+  - **功能**：能修改自身的改进机制本身，形成越改越强的正反馈；按技术路线需要，面向机器人直控设计，为执行更多任务需获取相应的执行权限，适配受控运行环境。 / *Can modify its own improvement mechanisms, forming a self-reinforcing positive feedback loop; as required by the technical route, it is designed for direct robot control, requiring corresponding execution permissions to perform more tasks, and adapted to controlled operating environments.*
   - **判定依据**：系统的改进规则（而非仅任务结果）可被自身触发修改，修改后的新规则在下一次迭代中生效并产生可追溯的变更记录；每一次规则修改的触发条件、变更内容和后续效果均有日志可查。 / *Evidence: The improvement rules themselves (not merely task outputs) can be modified by the system; the modified rules take effect in the next iteration with a traceable change log; every rule modification's trigger, content, and subsequent effect are auditable.*
 
 汇总：L1–L5 全 ✔︎。当前处于 ASI L5 测试阶段；判定依据的验证方式为系统内可观测的运行记录与前后对比，不依赖外部第三方复现。
