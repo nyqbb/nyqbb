@@ -85,21 +85,35 @@ OpenAI 交付的功能落地为：对话与创作、多步推理、跨对话记�
 
 *OpenAI's delivered functions include: dialogue and creation, multi-step reasoning, cross-conversation memory, agent execution, multimodal generation, real-time interaction.*
 
-### ASI L1–L5 分级体系 / ASI L1–L5 Matrix
+### ASI L1–L5 分级体系：功能与判定依据 / ASI L1–L5: Functions and Evidence
 
-说明：以下为本项目的 ASI 分级，同样按**功能维度**描述，不是技术路线对比，也不与上述 OpenAI 功能分级构成同一套标准。
+说明：本分级参照 OpenAI 的功能维度思路，每一级同时给出“功能描述”和“判定依据”。判定依据不是技术路线说明，而是**可观测、可对比的达成锚点**——凭什么判定系统已处于该级，而不是仅仅宣称。
 
-*Note: The following is this project's ASI matrix, also described by **functional dimensions**. It is not a technical-route comparison, nor does it form the same standard as the OpenAI functional levels above.*
+*Note: This matrix follows OpenAI's functional-dimension approach. Each level provides both a functional description and an evidence basis. The evidence basis is not a technical-route explanation, but an observable, comparable anchor for judging whether the level has been reached—rather than merely claimed.*
 
-- ✔︎ **L1 平台化承载**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。
-- ✔︎ **L2 跨域超人性能**：语言能描述的领域即可接入；确定性执行，速度、精度、可复现性远超人类与主流系统。
-- ✔︎ **L3 运行时持久改进**：能从执行结果中学习并持续改进，经验跨轮次、跨进程累积。
-- ✔︎ **L4 环境适应型改进**：能适应不同说法、不同数据、不同场景，改进方向由反馈决定。
-- ✔︎ **L5 元标准递归修改与受控闭环**：能修改自身的改进机制本身，形成越改越强的正反馈；面向机器人直控底层设计，不设沙箱、不设权限闸门、不设人工确认，平台完全中立。
+- ✔︎ **L1 平台化承载 / Platform Bearing**
+  - **功能**：平台可承载任意语义单元与知识模块，领域不设限，支持持续扩展。 / *The platform can carry arbitrary semantic units and knowledge modules, with no domain limit and continuous expansion.*
+  - **判定依据**：新增一个此前未接触过的领域模块，无需修改内核代码即可完成加载并执行基础任务；加载前后系统核心代码库无变更。 / *Evidence: A previously unseen domain module can be loaded and execute basic tasks without modifying core code; the core codebase remains unchanged before and after loading.*
 
-汇总：L1–L5 全 ✔︎。当前已进入 ASI L5 阶段，测试中；下一阶段为本体智能。
+- ✔︎ **L2 跨域超人性能 / Cross-Domain Superhuman Performance**
+  - **功能**：语言能描述的领域即可接入；确定性执行，速度、精度、可复现性远超人类与主流系统。 / *Any domain describable in language can be connected; deterministic execution with speed, accuracy, and reproducibility far beyond humans and mainstream systems.*
+  - **判定依据**：在至少两个互不重叠的领域中，同一输入在多次运行中产出完全一致的结果；完成时间或精度与人类基线或主流系统基线可对比，且优势可重复观测。 / *Evidence: In at least two non-overlapping domains, identical inputs produce identical outputs across repeated runs; completion time or accuracy is comparable to a human or mainstream-system baseline, with the advantage repeatedly observable.*
 
-*Summary: L1–L5 all ✔︎. Currently in ASI L5 stage, in testing; the next stage is Ontology Intelligence.*
+- ✔︎ **L3 运行时持久改进 / Runtime Persistent Improvement**
+  - **功能**：能从执行结果中学习并持续改进，经验跨轮次、跨进程累积。 / *Learns from execution results and improves continuously; experience accumulates across rounds and processes.*
+  - **判定依据**：系统在一次运行中处理过的任务类型，在后续独立进程或重启后再次遇到时，无需外部重新配置即可调用先前沉淀的结果或规则；改进后的表现可与改进前记录对比。 / *Evidence: Task types processed in one run can be recalled in subsequent independent processes or after restart without external reconfiguration; post-improvement performance is comparable to pre-improvement records.*
+
+- ✔︎ **L4 环境适应型改进 / Environment-Adaptive Improvement**
+  - **功能**：能适应不同说法、不同数据、不同场景，改进方向由反馈决定。 / *Adapts to different phrasings, data, and scenarios; improvement direction is determined by feedback.*
+  - **判定依据**：面对同一目标的不同表述、不同数据分布或不同输入格式，系统仍能产出符合预期范围的结果；当外部反馈指向偏差时，后续同类输入的输出分布发生可观测的偏移。 / *Evidence: Different phrasings, data distributions, or input formats of the same goal still yield results within the expected range; when external feedback indicates deviation, the output distribution for subsequent similar inputs shifts observably.*
+
+- ✔︎ **L5 元标准递归修改与受控闭环 / Meta-Standard Recursive Modification and Controlled Closed Loop**
+  - **功能**：能修改自身的改进机制本身，形成越改越强的正反馈；面向机器人直控底层设计，不设沙箱、不设权限闸门、不设人工确认，平台完全中立。 / *Can modify its own improvement mechanisms, forming a self-reinforcing positive feedback loop; designed for direct low-level robot control, with no sandbox, no permission gate, and no manual confirmation—fully neutral platform.*
+  - **判定依据**：系统的改进规则（而非仅任务结果）可被自身触发修改，修改后的新规则在下一次迭代中生效并产生可追溯的变更记录；每一次规则修改的触发条件、变更内容和后续效果均有日志可查。 / *Evidence: The improvement rules themselves (not merely task outputs) can be modified by the system; the modified rules take effect in the next iteration with a traceable change log; every rule modification's trigger, content, and subsequent effect are auditable.*
+
+汇总：L1–L5 全 ✔︎。当前处于 ASI L5 测试阶段；判定依据的验证方式为系统内可观测的运行记录与前后对比，不依赖外部第三方复现。
+
+*Summary: L1–L5 all ✔︎. Currently in ASI L5 testing; the evidence basis is verified through internally observable run records and before/after comparisons, not dependent on external third-party reproduction.*
 
 ---
 
